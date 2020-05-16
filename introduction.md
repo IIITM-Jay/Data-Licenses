@@ -1,4 +1,4 @@
 # Data Licenses
 The intention behind  *Data Licensing* is to make ensure that the data you are including in your project must satisfy the needs of ***"Reusable"*** in [**FAIR** data management](https://the-turing-way.netlify.app/rdm/fairprinciples.html).
 
-**Data Licenses** are a sort of memorandum that settles the acceptance between the two porties of which one of them is the producer and the next is the user.
+**Data Licenses** are a sort of memorandum that settles the acceptance between the two porties of which one of them is the author/ producer and the next is the user.
