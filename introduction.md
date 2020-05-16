@@ -1,4 +1,6 @@
 # Data Licenses
+The main aim of *Data Licensing* is to make ensure that the data you are including in your project must satisfy the needs of ***"Reusable"*** in [**FAIR** data management](https://the-turing-way.netlify.app/rdm/fairprinciples.html).
+
 **Data Licenses** are a sort of legal agreements between the author/ producer of the repositories that includes a variety of  data and the users, specifying the permission granted of what a user is authorized to do.
 
 The main aim of *Data Licensing* is to make ensure that the data included must satisfy the needs of ***"Reusable"***
