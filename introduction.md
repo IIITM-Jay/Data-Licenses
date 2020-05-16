@@ -1,7 +1,7 @@
 # Data Licenses
-The primary influence behind *Data Licensing* is to make ensure that the data you are including in your project must satisfy the needs of ***"Reusable"*** , one of the principles and practices of [**FAIR** data management](https://the-turing-way.netlify.app/rdm/fairprinciples.html).
+The primary influence behind ***Data Licensing*** is to make ensure that the data you are including in your project must satisfy the needs of *<ins>**"Reusable"***</ins> , one of the principles and practices of [**FAIR** data management](https://the-turing-way.netlify.app/rdm/fairprinciples.html).
 
 **Data Licenses** are a sort of memorandum that settles the acceptance between the two porties of which one of them is the author/ producer and the next is the user.
 
-[Creative Commons](https://creativecommons.org) provides a bunch of licenses for various categories which assist you with shareability and reusablity by providing free licenses that lets you to have certain permissions in-hand for various uses in different scenario.
+[Creative Commons](https://creativecommons.org) provides a bunch of licenses for various categories which assist you with shareability and reusablity of your data by providing free licenses that lets you to have certain permissions in-hand for various uses in different scenarios:
 
