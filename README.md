@@ -1,7 +1,7 @@
 ## Summary
 As I have started writing on the subchapter *"Data Licenses"*, want the valuable feedbacks and suggestions. I am thinking to include the following subsections under it.
 ## Subsections:
- 1. **Intoduction** that discusses the following:
+ 1.**Intoduction**(_a type of short summary within 5-6 lines and a flow chart to be more clear_) that discusses the following:
  * Why to use Data Licenses
  * What are Data Licenses
  * A flow chart to describe various scenarios where these are applicable
