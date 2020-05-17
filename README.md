@@ -15,5 +15,6 @@ As I have started writing on the subchapter *"Data Licenses"*, want the valuable
  ## Work done so far
  - [x] **Intoduction**
  - [x] **License Creation,Adaptation and Termination**
- ## Updates
- * [Introduction](
+ ## Updates (Work done can viewed on the following subsection links)
+ * [Introduction](https://github.com/IIITM-Jay/Data-Licenses/blob/master/introduction.md)
+ * [License Creation,Adaptation and Termination]()
