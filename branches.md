@@ -1,6 +1,6 @@
 # License Creation, Adatation and Termination
 ## License Creation
-After getting aware of the scenarios and situations on where to use the licenses as discussed in the previous section's [flow chart], now it's time to create licenses for your own documentation and the data that it contains.
+After getting aware of the scenarios and situations on where to use the licenses as discussed in the previous section's [**Flow Chart**](/flow_chart.png), now it's time to create licenses for your own documentation and the data that it contains.
 For the purpose of creating License, go through the following table that clearly describes the icons to be used for protecting your content:
 
 
@@ -54,13 +54,20 @@ As a ***Licensor*** , you should [think twice carefully before applying any Lice
 As a ***"Licensee"*** ,before using the Licensed material you should be clear about the mentioned licenses uder the document.
 Some common scenarios are as follows
   #### __Material you wish to use is not permitted by the Licencse:__
-    *  Contact the Licensor for granting permission.
-    * If permission is not granted and still you use it, then you may be liable for copyright infringement.
-    * Do not violate the terms of the licenses.
+    1. Contact the Licensor for granting permission.
+    2. If permission is not granted and still you use it, then you may be liable for copyright infringement.
+    3. Do not violate the terms of the licenses.
  #### __Properly attributing the material offered CC licenses:__
-    * You must retain copyright notice, a link to the license and a liense notice.
-    * You must clearly mention the mdified works and indication of the previous works. 
-    * You must be very careful not to imply any kind of endorsement,patronage or sponsorship in any medium.
+    1. You must retain copyright notice, a link to the license and a liense notice.
+    2. You must clearly mention the mdified works and indication of the previous works. 
+    3. You must be very careful not to imply any kind of endorsement,patronage or sponsorship in any medium.
+#### __Can a CC licensed work be used in the format other than the published one:__
+    1. Yes, these proposed licenses itself allows the licensee to use it meeting other conditions.
+    2. True, even with the case of NoDerivative licenses. 
+    3. If the material is published in pdf format you can still use it in .doc or the .txt.
+
+You can still be more comfortable working with the licensed material having get to [know more] (https://creativecommons.org/faq/#for-licensees).
+
 
 
 
