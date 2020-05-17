@@ -44,8 +44,27 @@ For the purpose of creating License, go through the following table that clearly
 ! Some few points to be kept in mind while applying the above License:
 - Creative Commons Licenses are not recommended to be used for Soffware. 
 - Make doubly ensure that you own the material you want to license
-- CC licenses  are not recoverable. Once you published your material with CC licenses, Licensees may continue to using it even if you remove it at some times.
+- CC licenses  are not revocable. 
+- CC do not license trademark or patent rights, or the publicity, personality, and privacy rights.
+- Licensor can't impose restrictions on the work to be used in the format other than the published one.
 ```
+As a ***Licensor*** , you should [think twice carefully before applying any License to your documents](https://creativecommons.org/faq/#what-things-should-i-think-about-before-i-apply-a-creative-commons-license).
+
+## License Adatation
+As a ***"Licensee"*** ,before using the Licensed material you should be clear about the mentioned licenses uder the document.
+Some common scenarios are as follows
+  #### __Material you wish to use is not permitted by the Licencse:__
+    *  Contact the Licensor for granting permission.
+    * If permission is not granted and still you use it, then you may be liable for copyright infringement.
+    * Do not violate the terms of the licenses.
+ #### __Properly attributing the material offered CC licenses:__
+    * You must retain copyright notice, a link to the license and a liense notice.
+    * You must clearly mention the mdified works and indication of the previous works. 
+    * You must be very careful not to imply any kind of endorsement,patronage or sponsorship in any medium.
+
+
+
+
 
 
 
