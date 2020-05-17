@@ -1,3 +1,9 @@
+# License Creation, Adatation and Termination
+## License Creation
+After getting aware of the scenarios and situations on where to use the licenses, now it's time to create licenses for your own documentation and the data that it contains.
+For the purpose of creating License, go through the following table that clearly describes the icons to be used for protecting your content:
+
+
 <table>
  
   <tr>
@@ -32,3 +38,14 @@
     </tr>
   
 </table>
+
+```diff
+
+! Some few points to be kept in mind while applying the above License:
+- Creative Commons Licenses are not recommended to be used for Soffware. 
+- Make doubly ensure that you own the material you want to license
+- CC licenses  are not recoverable. Once you published your material with CC licenses, Licensees may continue to using it even if you remove it at some times.
+```
+
+
+
