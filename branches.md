@@ -71,8 +71,8 @@ You can still be more comfortable working with the licensed material having get 
 ## License Termination
 The duration CC licenses is until the underlying copyrights and similar rights expires. CC licenses are *"irrevocable"* implying that once you receive the material and the document under CC licenses you can always have the rights to use it, even if the licensor of the same has removed it, until the copyrights terminates. But you should still admire them by feeling of respect and stop using the same. 
 
-*"No man is above the law and no man is below it: nor do we ask any man's permission when we ask him to obey it."*
-***Hence, we must follow all the rules and laws mentioned in the license agreements.***
+*"No man is above the law and no man is below it: nor do we ask any man's permission when we ask him to obey it."*<br>
+***Hence, we must follow all the rules and laws mentioned in the license agreements when we either wish to create it or want to adapt it !!!***
 
 
 
