@@ -1,6 +1,6 @@
 # License Creation, Adatation and Termination
 ## License Creation
-After getting aware of the scenarios and situations on where to use the licenses, now it's time to create licenses for your own documentation and the data that it contains.
+After getting aware of the scenarios and situations on where to use the licenses as discussed in the previous section's [flow chart], now it's time to create licenses for your own documentation and the data that it contains.
 For the purpose of creating License, go through the following table that clearly describes the icons to be used for protecting your content:
 
 
