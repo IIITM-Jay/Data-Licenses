@@ -1,4 +1,4 @@
-# License Creation, Adatation and Termination
+# License Creation, Adaptation and Termination
 ## License Creation
 After getting aware of the scenarios and situations on where to use the licenses as discussed in the previous section's [**Flow Chart**](/flow_chart.png), now it's time to create licenses for your own documentation and the data that it contains.
 For the purpose of creating License, go through the following table that clearly describes the icons to be used for protecting your content:
@@ -50,7 +50,7 @@ For the purpose of creating License, go through the following table that clearly
 ```
 As a ***Licensor*** , you should [think twice carefully before applying any License to your documents](https://creativecommons.org/faq/#what-things-should-i-think-about-before-i-apply-a-creative-commons-license).
 
-## License Adatation
+## License Adaptation
 As a ***"Licensee"*** ,before using the Licensed material you should be clear about the mentioned licenses uder the document.
 Some common scenarios are as follows:
   #### __Material you wish to use is not permitted by the License:__
