@@ -52,12 +52,12 @@ As a ***Licensor*** , you should [think twice carefully before applying any Lice
 
 ## License Adatation
 As a ***"Licensee"*** ,before using the Licensed material you should be clear about the mentioned licenses uder the document.
-Some common scenarios are as follows
+Some common scenarios are as follows:
   #### __Material you wish to use is not permitted by the License:__
     1. Contact the Licensor for granting permission.
     2. If permission is not granted and still you use it, then you may be liable for copyright infringement.
     3. Do not violate the terms of the licenses.
- #### __Properly attributing the material offered CC licenses:__
+ #### __Properly attributing the material offered under CC licenses:__
     1. You must retain copyright notice, a link to the license and a liense notice.
     2. You must clearly mention the mdified works and indication of the previous works. 
     3. You must be very careful not to imply any kind of endorsement,patronage or sponsorship in any medium.
@@ -69,9 +69,9 @@ Some common scenarios are as follows
 You can still be more comfortable working with the licensed material having get to [know more](https://creativecommons.org/faq/#for-licensees).
 
 ## License Termination
-The duration CC licenses is until the underlying copyrights and similar rights expires. CC licenses are *"irrevocable* implying that once you receive the material and the document under CC licenses you can always have the rights to use it, even if the licensor of the same has removed it, until the copyrights terminates. But you should still admire them by feeling of respect and stop using the same. 
+The duration CC licenses is until the underlying copyrights and similar rights expires. CC licenses are *"irrevocable"* implying that once you receive the material and the document under CC licenses you can always have the rights to use it, even if the licensor of the same has removed it, until the copyrights terminates. But you should still admire them by feeling of respect and stop using the same. 
 
-*"No man is above the law and no man is below it: nor do we ask any man's permission when we ask him to obey it."*
+*"No man is above the law and no man is below it: nor do we ask any man's permission when we ask him to obey it."*\n
 ***Hence, we must follow all the rules and laws mentioned in the license agreements.***
 
 
