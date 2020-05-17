@@ -1,5 +1,5 @@
 # Data Licenses
-The primary influence behind ***Data Licensing*** is to make ensure that the data you are including in your project must satisfy the needs of *"Reusable"* , one of the principles and practices of [<ins>**FAIR** data management</ins>](https://the-turing-way.netlify.app/rdm/fairprinciples.html).
+The primary influence behind ***Data Licensing*** is to make ensure that the data you are including in your project must satisfy the needs of *"Reusable"* , one of the underlying principles and practices of [<ins>**FAIR** data management</ins>](https://the-turing-way.netlify.app/rdm/fairprinciples.html).
 
 **Data Licenses** are a sort of memorandum that settles the acceptance between the two porties of which one of them is the author/ producer of the data and the next is the user of the same.
 
