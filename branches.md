@@ -53,7 +53,7 @@ As a ***Licensor*** , you should [think twice carefully before applying any Lice
 ## License Adatation
 As a ***"Licensee"*** ,before using the Licensed material you should be clear about the mentioned licenses uder the document.
 Some common scenarios are as follows
-  #### __Material you wish to use is not permitted by the Licencse:__
+  #### __Material you wish to use is not permitted by the License:__
     1. Contact the Licensor for granting permission.
     2. If permission is not granted and still you use it, then you may be liable for copyright infringement.
     3. Do not violate the terms of the licenses.
@@ -66,9 +66,10 @@ Some common scenarios are as follows
     2. True, even with the case of NoDerivative licenses. 
     3. If the material is published in pdf format you can still use it in .doc or the .txt.
 
-You can still be more comfortable working with the licensed material having get to [know more] (https://creativecommons.org/faq/#for-licensees).
+You can still be more comfortable working with the licensed material having get to [know more](https://creativecommons.org/faq/#for-licensees).
 
-
+## License Termination
+The duration CC licenses is until the underlying copyrights and similar rights expires. 
 
 
 
