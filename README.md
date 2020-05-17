@@ -15,6 +15,11 @@ As I have started writing on the subchapter *"Data Licenses"*, want the valuable
  ## Work done so far
  - [x] **Intoduction**
  - [x] **License Creation,Adaptation and Termination**
+ - [ ] **An extensive use of Data Licenses in Aritificial intelligence(AI)**
+ - [ ] **An extension to "BIG DATA SCIENCES"**
+ - [ ] **A Case Study*
+ 
  ## Updates (Work done can viewed on the following subsection links)
  * [Introduction](https://github.com/IIITM-Jay/Data-Licenses/blob/master/introduction.md)
- * [License Creation,Adaptation and Termination]()
+ * [License Creation,Adaptation and Termination](https://github.com/IIITM-Jay/Data-Licenses/blob/master/branches.md)
+ * Working on remaing three subsections
