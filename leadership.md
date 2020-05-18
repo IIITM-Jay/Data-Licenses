@@ -1,6 +1,6 @@
 # Management
 <p align="center">
-<img src="T.png" width="500"/>
+<img src="management.png" width="500"/>
 </p>
 Remote success falls on the manager, which is why you want to give enough detail on tasks so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
 The reality is project management is your new job when you choose to work with remote folk
