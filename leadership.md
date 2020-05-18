@@ -32,3 +32,6 @@ The reality is project management is your new job when you choose to work with r
 So, to reach that balance, you need to A) give concise directions, and B) anticipate the things the remote worker may need, to reduce their need to ask questions you could have already answered for them. 17% of remote workers have problems collaborating and communicating with their team when their managers can't do these basic things.
 
 ## Time Management
+<img src="Time.png" width="20%" align="right" hspace="20" vspace="20">
+
+
