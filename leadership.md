@@ -63,7 +63,15 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
  ## Time Management
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/time_manage.png" width="50%" align="left" hspace="0" vspace="0">
 <p align="justify">
-<b><i>"Time is the wisest counselor of all." – Pericles.</i></b> and <b><i>"The key is in not spending time, but in investing it." – Stephen R. Covey.</i></b> and hence one of the most prominent challenge as discussed in the previous section. Even it's more difficult to establish a best communication channel among the members of the team who are remotely located. Although there are various platforms on which this can be approach like <a href="https://zoom.us/">Zoom</a>,<a href="https://slack.com/intl/en-in/">Slack</a>,<a href="https://www.troopmessenger.com/">Troop Messenger</a>,<a href="https://gitter.im/">Gitter</a>, and many more. But, the common problem among them all is the different timezones of the team members whose locations are varied.
+<b><i>"Time is the wisest counselor of all." – Pericles.</i></b> and <b><i>"The key is in not spending time, but in investing it." – Stephen R. Covey.</i></b> and hence one of the most prominent challenge as discussed in the previous section. Even it's more difficult to establish a best communication channel among the members of the team who are remotely located. Although there are various platforms on which this can be approach like <a href="https://zoom.us/">Zoom</a>,<a href="https://slack.com/intl/en-in/">Slack</a>,<a href="https://www.troopmessenger.com/">Troop Messenger</a>,<a href="https://gitter.im/">Gitter</a>, and <a href="https://qz.com/work/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/">Coffee-breaks</a> and many more. But, the common problem among them all is the different timezones of the team members whose locations are varied. The only best solution to get rid of this problem is to discuss with all the team members and finalize the time based on everyone's conveniency. If everybody is comfortable with the finalized team then only it's possible to have an efficient meeting and can work efficiently. It's nothing wrong to plan ahead, as <b><i>"As Tommorrow belongs to the people who prepare for it today."</i></b> For Better planning, one should practice:
+ <ul>
+  <li>Calendar's Mark</li>
+  <li>Reminder</li>
+  <li>Mention different timezones</li>
+  <li>Options for selecting appropriate time</li>
+  <li>Time Duration for different tasks</li>
+  <ul>
+   and most importantly,<b><i> Organise</i></b> everything in an effective manner.
  </p>
 
 
