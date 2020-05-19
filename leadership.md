@@ -39,6 +39,7 @@ So, to reach that tobalance, you need to A) give concise directions, and B) anti
 But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
 The reality is project management is your new job when you choose to work with remote folk
 So, to reach that tobalance, you need to A) give concise directions, and B) anticipate the things the remoSo, to reach that tobalance, you need to A) give concise directions, and B) anticipate
+ 
 </p>
  
  
