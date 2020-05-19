@@ -56,9 +56,9 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
 </ul>
 
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/work.png" width="30%" align="right" hspace="20" vspace="20">
-<p align="justufy">
- <b><i>" A picture can speak a thousand words,"</i></b> and it's clear from the pictorial representation in the right side, of what a Team Member should concern while working remotely in a group or a team. A <b>Team Member</b> must possess the quality of working collectively and collaboratively with other members, which will benefit them in a team as a whole. Admiring others in a team will help them to strengthen their bond among themselves.<b><i> "Better three hours too soon than a minute too late." – William Shakespeare.</i></b> and hence one should respect even the time in addition to its colleagues.
- </p>
+<p align="justify">
+ <b><i>" A picture can speak a thousand words,"</i></b> and it's clear from the pictorial representation in the right side, of what a Team Member should concern while working remotely in a group or a team. A <b>Team Member</b> must possess the quality of working collectively and collaboratively with other members, which will benefit them in a team as a whole. Admiring others in a team will help them to strengthen their bond among themselves.<b><i> "Better three hours too soon than a minute too late." – William Shakespeare.</i></b> and hence one should respect even the time in addition to its colleagues. Managers sholud also take care of the fact that deadlines should be mutually agreed in accordance with capacity to complete tasks by team members. 
+</p>
  
  ## Time Management
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/time_manage.png" width="50%" align="right" hspace="0" vspace="0">
