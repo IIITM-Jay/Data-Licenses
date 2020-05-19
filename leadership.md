@@ -119,5 +119,4 @@ The *Task Management* will go efficiently if we all , whole as a team, must foll
 ## Leadership
 <p align="justify">
 Managing is not an easy task , as mentioned above. It takes a lot of efforts to organize and conduct in an effective manner taking care of all the above points. Therefore, a <b>"Leader/ Manager"</b> should be respected. A <i>leader/ Manager</i> is the only one <b><i>"Who ties all the team members together into a single rope whose knot can't be opened easily."</i></b> signifying <i>"Unity is strength... when there is teamwork and collaboration, wonderful things can be achieved."</i>
-
--Mattie StepaneK 
+</p>
