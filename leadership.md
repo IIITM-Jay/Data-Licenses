@@ -10,16 +10,18 @@ While working in a group or a team, every individual must take care of the follo
 <img src="manage.png" width="500"/>
 </p>
 <p align="justify">
+ 
 While keenly observing the above classifications, it should be noted that it follows <b>3T's Practices</b>:
 1. <strong>T</strong>ask Management
 2. <strong>T</strong>ime Management
 3. <strong>T</strong>eam Management
 <p>
+ 
 ### Task Management
 The *Task Management* will go efficiently if we all , whole as a team, must follow the following **10 P's**: 
 <img src="task.png" width="30%" align="left" hspace="20" vspace="20">
 <p align="justify">
-1. <b>Participation:</b> The First <b>P</b> stands for <i>Participation</i> which emphasizes on full involvement of each and every member of a team. It's your own responsibility that you should take part in every specific discussion as one of the team member, sharing your own ideas. Of course! the manager will make ensure that everybody is present, but you should join the team by your own thought that you are also one of the <b><i>"Worthiest Member</b></i> of the team and hence you are included.
+1. <b>Participation:</b> The First <b>P</b> stands for <i>Participation</i> which emphasizes on full involvement of each and every member of a team. It's your own responsibility that you should take part in every specific discussion as one of the team member, sharing your own ideas. Of course! the manager will make ensure that everybody is present, but you should join the team by your own thought that you are also one of the <b><i>"Worthiest Member"</b></i> :busts_in_silhouette: of the team and hence you are included.
 </p>
 <p align="justify">
 2.<b> Produce:</b> For any task to work on, the first thing is that you should have an idea to be discussed upon in a team i.e., you must <b><i> Produce</i></b> unique and varied ideas so that everybody should consider it interesting. <i>However, never hesitate to talk about the ideas with your team, no matter whether it's a small idea, your ideas are always welcome:handshake: as this is your own team in which you are wrking in.</i>
