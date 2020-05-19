@@ -86,7 +86,7 @@ The *Task Management* will go efficiently if we all , whole as a team, must foll
 </p>
 
 <p align="justify">
-3.<b> Propose:</b> After having discussion on everybody's ideas, it's time for <b>Creating a Proposal<b> so that everybody can view and can further comment ang feedbacks on the same. Feedback from other members is too important to work collectively.
+3.<b> Propose:</b> After having discussion on everybody's ideas, it's time for <b>Creating a Proposal</b> so that everybody can view and can further comment and can give feedbacks on the same. Feedback from other members is too important to work collectively.
 </p>
  <p align="justify">
   4.<b> Plan:</b> All the members will then go ahead with <b>Planning</b> of the above proposed ideas. Planning must include the following:
