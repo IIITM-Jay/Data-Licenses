@@ -61,12 +61,9 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
 </p>
  
  ## Time Management
-<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/time_manage.png" width="50%" align="right" hspace="0" vspace="0">
+<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/time_manage.png" width="50%" align="left" hspace="0" vspace="0">
 <p align="justify">
-The reality is project management is your new job when you choose to work with remote folk
-So, to reach that balance, you need to A) give concise directions, and B) anticipate the things the remote worker may need, to reduce their need to ask questions you could have already answered for them. 17% of remote workers have problems collaborating and communicating with their team when their managers can't do these basic things.Remote success falls on the manager, which is why you want to give enough detail on tasks so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
-The reality is project management is your new job when you choose to work with remote folk
-So, to reach that balance, you need to A) give concise directions, and B) anticipate the things the remote worker may need, to reduce their need to ask questions you could have already answered for them. 17% of remote workers have problems collaborating and communicating with their team when their managers can't do these basic things
+<b><i>"Time is the wisest counselor of all." – Pericles.</i></b> and <b><i>"The key is in not spending time, but in investing it." – Stephen R. Covey.</i></b> and hence one of the prominent challenge as discussed in the previous section. Even it's more difficult to establish a best communication channel among the members of the team who are remotely located. Although there are various platforms on which this can be approach like<a href=" https://zoom.us/" Zoom></a>,
  </p>
 
 
