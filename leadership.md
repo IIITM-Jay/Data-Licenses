@@ -12,9 +12,9 @@ While working in a group or a team, every individual must take care of the follo
 <p align="justify">
  
 While keenly observing the above classifications, it should be noted that it follows <b>3T's Practices</b>:
-1. <strong>T</strong>ask Management
+1. <strong>T</strong>eam Management
 2. <strong>T</strong>ime Management
-3. <strong>T</strong>eam Management
+3. <strong>T</strong>ask Management
 <p>
  
 ### Task Management
