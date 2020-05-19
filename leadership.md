@@ -22,8 +22,7 @@ The *Task Management* will go efficiently if we all , whole as a team, must foll
 <img src="task.png" width="30%" align="left" hspace="20" vspace="20">
 <p align="justify">
  
-1. <b>Participation:</b> The First <b>P</b> stands for <i>Participation</i> which emphasizes on full involvement of each and every
-<p align="justify"> member of a team. It's your responsibility that you should take part every  specific discussion as one of the team member, sharing your own ideas. Of course! the manager will make ensure that everybody is present, but you should join the team by your own thinking that you are also one of the worthiest member of the team and hence you are included.
+1. <b>Participation:</b> The First <b>P</b> stands for <i>Participation</i> which emphasizes on full involvement of each and every member of a team. It's your own responsibility that you should take part in every specific discussion as one of the team member, sharing your own ideas. Of course! the manager will make ensure that everybody is present, but you should join the team by your own thinking that you are also one of the worthiest member of the team and hence you are included.
 </p>
 2. **Produce:**</br>
 </p>
