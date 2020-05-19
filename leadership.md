@@ -77,7 +77,7 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
 
 ## Task Management
 The *Task Management* will go efficiently if we all , whole as a team, must follow the following **10 P's**: 
-<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/task.png" width="50%" height="50%" align="left" hspace="20" vspace="20">
+<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/task.png" width="30%" height="50%" align="left" hspace="20" vspace="20">
 <p align="justify">
 1. <b>Participation:</b> The First <b>P</b> stands for <i>Participation</i> which emphasizes on full involvement of each and every member of a team. It's your own responsibility that you should take part in every specific discussion as one of the team member, sharing your own ideas. Of course! the manager will make ensure that everybody is present, but you should join the team by your own thought that you are also one of the <b><i>"Worthiest Member"</b></i> :busts_in_silhouette: of the team and hence you are included.
 </p>
