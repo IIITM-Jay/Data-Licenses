@@ -33,8 +33,8 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
  </p>
         <li><b><i>Respect and Appreciate everyone's contribution:</i></b>
              <p align="justify">
-              <i>“Respect is a two-way street, if you want to get it, you’ve got to give it.”
-               -R.G. Risch</i>
+              <b><i>“Respect is a two-way street, if you want to get it, you’ve got to give it.”
+               -R.G. Risch</i></b>
               
  Manager should respect everyone and everybody's time, meanwhile appreciating their works, which will even help you as if a manager to strengthen your bond between your team members and <b>let them feel included as a team</b>.
          </p>
@@ -42,13 +42,24 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
   <p align="justify">
    Manager should ensure that nobody is facing any type of difficulties whether it's a communication issue or a technical problem. Manager sholud keep a check on communication channels to confirm that it follows through the right path and fixing out any issue , if so occured which help them to even create more stronger bond stronger among their colleagues.  
  </p>
+ <li><b><i>Give equal opportunities:</i></b>
+<p align="justify">
+ Each member of a team should feel that they all have got equal opportunities to take part and perform as well. Give space to new comers too in your team. It's the duty of a manager to fairly and appropriately allocate task to each member to get the desired output and for effective remote team working.
+ </p>
+ <li><b><i>Create comfortable environment:</i></b>
+<p align="justify">
+ It's very important to create a comfortable working environment. Most importantly, it is to be ensured that communication goes effectively with all your colleagues. When working in groups, managers should identify common languages and offer / arrange training and support for those with valulable contributions to make, but without the language skills to communicate them. 
+  </p>
  </ol>
- <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/work.png" width="30%" align="right" hspace="20" vspace="20">
 <ul>
  <li><b>As a Team Member:  :busts_in_silhouette: </b></li>
-
 </ul>
 
+<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/work.png" width="30%" align="right" hspace="20" vspace="20">
+<p align="justufy">
+ <b><i>" A picture can speak a thousand words,"</i></b> and it's clear from the pictorial representation in the right side, of what a Team Member should concern while working remotely. 
+ </p>
+ 
  ## Time Management
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/time_manage.png" width="50%" align="right" hspace="0" vspace="0">
 <p align="justify">
