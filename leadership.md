@@ -32,7 +32,8 @@ Remote success falls on the manager, which is why you want to give enough detail
 Remote success falls on the manager, which is why you want to give enough detail on tasks so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
 The reality is project management is your new job when you choose to work with remote folk
 So, to reach that tobalance, you need to A) give concise directions, and B) anticipate the things the remote worker may need,
-Remote success falls on the manager, which is why you want to give enough detail on tasks so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
+Remote success falls on the manager, which is why you want to give enough detail on task
+ s so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
 Remote success falls on the manager, which is why you want to give enough detail on tasks so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
 The reality is project management is your new job when you choose to work with remote folk
 So, to reach that tobalance, you need to A) give concise directions, and B) anticipate the things the remo
