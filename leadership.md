@@ -42,11 +42,19 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
   <p align="justify">
    Manager should ensure that nobody is facing any type of difficulties whether it's a communication issue or a technical problem. Manager sholud keep a check on communication channels to confirm that it follows through the right path and fixing out any issue , if so occured which help them to even create more stronger bond stronger among their colleagues.  
  </p>
- </ul>
+ </ol>
 <ul>
  <li><b>As a Team Member:  :busts_in_silhouette: </b></li>
 </ul>
 
+ ## Time Management
+<img src="time_manage.png" width="50%" align="right" hspace="0" vspace="0">
+<p align="justify">
+The reality is project management is your new job when you choose to work with remote folk
+So, to reach that balance, you need to A) give concise directions, and B) anticipate the things the remote worker may need, to reduce their need to ask questions you could have already answered for them. 17% of remote workers have problems collaborating and communicating with their team when their managers can't do these basic things.Remote success falls on the manager, which is why you want to give enough detail on tasks so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
+The reality is project management is your new job when you choose to work with remote folk
+So, to reach that balance, you need to A) give concise directions, and B) anticipate the things the remote worker may need, to reduce their need to ask questions you could have already answered for them. 17% of remote workers have problems collaborating and communicating with their team when their managers can't do these basic things
+ </p>
 
 
 ## Task Management
