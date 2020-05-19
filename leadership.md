@@ -21,7 +21,7 @@ While keenly observing the above classifications, it should be noted that it fol
  <p align="justify">
  <b><i>Team Management</i></b> is something which is not only done by the manager of the team, it's you also, as a member of the same group which constitutes finally as a team which lets you not to forget that the <b><i>Manager is also one of the member of the same  team to which you also belong.</i></b>The following points must be taken care of by both, the <i>The Manager</i> as well as the <i>The Team Member</i>:
 </p>
-<img src="Team.png" width="45%" align="left" hspace="20" vspace="20">
+<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/Team.png" width="45%" align="left" hspace="20" vspace="20">
 <ul>
  <li><b>As a Manager: :man_judge:</b></li>
 </ul>
@@ -48,7 +48,7 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
 </ul>
 
  ## Time Management
-<img src="time_manage.png" width="50%" align="right" hspace="0" vspace="0">
+<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/time_manage.png" width="50%" align="right" hspace="0" vspace="0">
 <p align="justify">
 The reality is project management is your new job when you choose to work with remote folk
 So, to reach that balance, you need to A) give concise directions, and B) anticipate the things the remote worker may need, to reduce their need to ask questions you could have already answered for them. 17% of remote workers have problems collaborating and communicating with their team when their managers can't do these basic things.Remote success falls on the manager, which is why you want to give enough detail on tasks so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
@@ -59,7 +59,7 @@ So, to reach that balance, you need to A) give concise directions, and B) antici
 
 ## Task Management
 The *Task Management* will go efficiently if we all , whole as a team, must follow the following **10 P's**: 
-<img src="task.png" width="30%" align="left" hspace="20" vspace="20">
+<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/task.png" width="30%" align="left" hspace="20" vspace="20">
 <p align="justify">
 1. <b>Participation:</b> The First <b>P</b> stands for <i>Participation</i> which emphasizes on full involvement of each and every member of a team. It's your own responsibility that you should take part in every specific discussion as one of the team member, sharing your own ideas. Of course! the manager will make ensure that everybody is present, but you should join the team by your own thought that you are also one of the <b><i>"Worthiest Member"</b></i> :busts_in_silhouette: of the team and hence you are included.
 </p>
@@ -79,24 +79,12 @@ The reality is project management is your new job when you choose to work with r
 So, to reach that tobalance, you need to A) give concise directions, and B) anticipate the things the remo
 But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
 The reality is project management is your new job when you choose to work with remote folk
-So, to reach that tobalance, you need to A) give concise directions, and B) anticipate the things the remoSo, to reach that tobalance, you need to A) give concise directions, and B) anticipate
- 
+So, to reach that tobalance, you need to A) give concise directions, and B) anticipate the things the remoSo, to reach that tobalance, you need to A) give concise directions, and B) anticipate 
 </p>
  
  
  
  
- 
- ## Time Management
-<img src="time_manage.png" width="50%" align="right" hspace="0" vspace="0">
-<p align="justify">
-The reality is project management is your new job when you choose to work with remote folk
-So, to reach that balance, you need to A) give concise directions, and B) anticipate the things the remote worker may need, to reduce their need to ask questions you could have already answered for them. 17% of remote workers have problems collaborating and communicating with their team when their managers can't do these basic things.Remote success falls on the manager, which is why you want to give enough detail on tasks so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
-The reality is project management is your new job when you choose to work with remote folk
-So, to reach that balance, you need to A) give concise directions, and B) anticipate the things the remote worker may need, to reduce their need to ask questions you could have already answered for them. 17% of remote workers have problems collaborating and communicating with their team when their managers can't do these basic things
- </p>
 
- 
- 
  
  
