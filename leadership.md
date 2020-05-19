@@ -1,13 +1,13 @@
 # Leadership and Management
 ## Management
 <p align="justify">
- The term <b><i>"Management"</i></b> always leads us to think about the ways for _organising, controlling_ and most pre-eminently *coordinating* the works, events and persons together as a team so as to accomplish <b>"Team Work"</b>. <i>But have you ever give a thought that it never discusses about the location of the team members, no matter wherever you and your team members are located, whether nearby or faraway, you have to manage your tasks and work efficiently as well as productively!!!</i>:thinking: 
+ The term <b><i>"Management"</i></b> always leads us to think about the ways for <i>organising, controlling</i> and most pre-eminently <i>coordinating</i> the works, events and persons together as a team so as to accomplish <b>"Team Work"</b>. <i>But have you ever give a thought that it never discusses about the location of the team members, no matter wherever you and your team members are located, whether nearby or faraway, you have to manage your tasks and work efficiently as well as productively!!!</i>:thinking: 
 </p>
 
 While working in a group or a team, every individual must take care of the following classifications of the *Management*:   
 
 <p align="center">
-<img src="manage.png" width="500"/>
+<img src="managing.png" width="500"/>
 </p>
 <p align="justify">
  
