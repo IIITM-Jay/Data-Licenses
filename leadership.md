@@ -29,15 +29,18 @@ While keenly observing the above classifications, it should be noted that it fol
    <li><b><i>Ensure everybody's involvement:</i></b>
     <p align="justify">
 It's only the manager of the team who binds the whole team as one unit ensuring participation of each and every member of the team. Although this is one of the prominent challenging task for a manager where the team members are located remotely as all of them will have their different timezones. This issue has been discussed in 
-<a href="https://github.com/IIITM-Jay/Data-Licenses/blob/master/leadership.md#time-management">Time Management</a>
+<a href="https://github.com/IIITM-Jay/Data-Licenses/blob/master/leadership.md#time-management">Time Management</a>.
  </p>
         <li><b><i>Respect and Appreciate everyone's contribution:</i></b>
              <p align="justify">
               <i>“Respect is a two-way street, if you want to get it, you’ve got to give it.”
                -R.G. Risch</i> </br>
- Manager should respect everyone and everybody's time, meanwhile appreciating their works, which will even help yu as if a manager to strengthen your bond between your team members and <b>let them fell included as a team</b>.
+ Manager should respect everyone and everybody's time, meanwhile appreciating their works, which will even help yu as if a manager to strengthen your bond between your team members and <b>let them feel included as a team</b>.
          </p>
-
+<li><b><i>Solve your team members' issues:</i></b>
+  <p align="justify">
+   Manager should ensure that nobody is facing any type of difficulties whether it's a communication issue or a technical problem. Manager sholud keep a check on communication channels to confirm it follows through the right path and fixing out any issue , if so occured which help them to even creating the bond stronger among their colleagues.  
+ </p>
 
 
 
