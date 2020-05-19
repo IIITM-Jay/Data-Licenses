@@ -46,12 +46,12 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
 <ul>
  <li><b>As a Team Member:  :busts_in_silhouette: </b></li>
  <div class="row">
-  <div class="col-md-8" markdown="1">
-  Some text.
+  <div class="col-md-4" markdown="1">
+    Manager should ensure that nobody is facing any type of difficulties whether it's a communication issue or a technical problem. Manager sholud keep a check on communication channels to confirm that it follows through the right path and fixing out any issue 
   </div>
   <div class="col-md-4" markdown="1">
   <!-- ![Alt Text](../img/folder/blah.jpg) -->
-You successeed.  </div>
+  Manager should ensure that nobody is facing any type of difficulties whether it's a communication issue or a technical problem. Manager sholud keep a check on communication channels to confirm that it follows through the right path and fixing out any issue   </div>
 </div>
 </ul>
 
