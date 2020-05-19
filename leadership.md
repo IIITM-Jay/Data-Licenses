@@ -21,7 +21,7 @@ While keenly observing the above classifications, it should be noted that it fol
  <p align="justify">
  <b><i>Team Management</i></b> is something which is not only done by the manager of the team, it's you also, as a member of the same group which constitutes finally as a team which lets you not to forget that the <b><i>Manager is also one of the member of the same  team to which you also belong.</i></b>The following points must be taken care of by both, the <i>The Manager</i> as well as the <i>The Team Member</i>:
 </p>
-<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/Team.png" width="75%" height="70%" align="left" hspace="20" vspace="20">
+<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/Team.png" width="35%" align="left" hspace="20" vspace="20">
 <ul>
  <li><b>As a Manager: :man_judge:</b></li>
 </ul>
@@ -35,7 +35,8 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
              <p align="justify">
               <b><i>“Respect is a two-way street, if you want to get it, you’ve got to give it.”
                -R.G. Risch</i></b>
-              
+         </p>
+   <p align="justify">            
  Manager should respect everyone and everybody's time, meanwhile appreciating their works, which will even help you as if a manager to strengthen your bond between your team members and <b>let them feel included as a team</b>.
          </p>
 <li><b><i>Solve your team members' issues:</i></b>
@@ -57,7 +58,7 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
 
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/work.png" width="30%" align="right" hspace="20" vspace="20">
 <p align="justify">
- <b><i>" A picture can speak a thousand words,"</i></b> and it's clear from the pictorial representation in the right side, of what a Team Member should concern while working remotely in a group or a team. A <b>Team Member</b> must possess the quality of working collectively and collaboratively with other members, which will benefit them in a team as a whole. Admiring others in a team will help them to strengthen their bond among themselves.<b><i> "Better three hours too soon than a minute too late." – William Shakespeare,</i></b> and hence one should respect even the time in addition to its colleagues. Managers sholud also take care of the fact that deadlines should be mutually agreed in accordance with capacity to complete tasks by team members. Always keep in mind, as a member of the team, to work productively and efficiently so that the assigned task should complete on time and the work can be published on time. At any moment if you are feeling that you are going in two-minds, discuss the issues and difficulties you are facing with your team members, they will help you!!!:handshake: 
+ <b><i>" A picture can speak a thousand words,"</i></b> and it's clear from the pictorial representation in the right side, of what a Team Member should concern while working remotely in a group or a team. A <b>Team Member</b> must possess the quality of working collectively and collaboratively with other members, which will benefit them in a team as a whole. Admiring others in a team will help them to strengthen their bond among themselves.<b><i> "Better three hours too soon than a minute too late." – William Shakespeare,</i></b> and hence one should respect even the time in addition to its colleagues. Managers sholud also take care of the fact that deadlines should be mutually agreed in accordance with capacity to complete tasks by team members. Always keep in mind, as a member of the team, to work productively and efficiently so that the assigned task should complete on time and the work can be published on time. At any moment if you are feeling that you are going in two-minds :confused:, discuss the issues and difficulties you are facing with your team members, they will help you!!!:handshake: 
 </p>
  
  ## Time Management
@@ -85,23 +86,32 @@ The *Task Management* will go efficiently if we all , whole as a team, must foll
 </p>
 
 <p align="justify">
-Remote success falls on the manager, which is why you want to give enough detail on tasks so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
-Remote success falls on the manager, which is why you want to give enough detail on tasks so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
-The reality is project management is your new job when you choose to work with remote folk
-So, to reach that tobalance, you need to A) give concise directions, and B) anticipate the things the remote worker may need,
-Remote success falls on the manager, which is why you want to give enough detail on task
- s so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
-Remote success falls on the manager, which is why you want to give enough detail on tasks so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
-The reality is project management is your new job when you choose to work with remote folk
-So, to reach that tobalance, you need to A) give concise directions, and B) anticipate the things the remo
-But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
-The reality is project management is your new job when you choose to work with remote folk
-So, to reach that tobalance, you need to A) give concise directions, and B) anticipate the things the remoSo, to reach that tobalance, you need to A) give concise directions, and B) anticipate 
+3.<b> Propose:</b> After having discussion on everybody's ideas, it's time for <b>Creating a Proposal<b> so that everybody can view and can further comment ang feedbacks on the same. Feedback from other members is too important to work collectively.
 </p>
- 
- 
- 
- 
-
- 
- 
+ <p align="justify">
+  4.<b> Plan:</b> All the members will then go ahead with <b>Planning</b> of the above proposed ideas. Planning must include the following:
+  <ol>
+   <li>Number of tasks</li>
+   <li>Time it takes for each task to complete</li>
+   <li>Everybody should comfortable in the working environment</li>
+   <li>Communication channel must be well-established</li>
+   <li>There should be no loop hole and everybody must remain in the same working loop</li>
+ </ol>
+ </p>
+ <p align="justify">
+5.<b> Priorities:</b> After getting ready with the plan, ask the manager or discuss among the team members to <b>Prioritize</b> the tasks accordingly and set the milestones correspondingly. Manager/ Group leadr will take care of the allocation of the task according to the skills each member possesses.
+ </p>
+ <p align="justify">
+ 6.<b> Perform:</b> It's the responsibility of all the team members to work according to the allocated tasks and complete it on time to be get reviewed as early as possible for incorporating the feedbacks.
+ </p>
+<p align="justify">
+ 7.<b> Progress:</b> Both the parties, i.e., the team member as well as the leader/ manager, should track the <b>Progress</b> and keep regularly checking the reports of task completion.
+ <p align="justify">
+ 8.<b> Prepare:</b> Now, we are very close to our final publication. <b><i>Thanks for the draft :+1:.</i></b> -All the team members will get appreciated for <b>Preparing</b> the required draft.
+  </p>
+  <p align="justify">
+ 9.<b> Preview:</b> All the <i>"Team Members"</i> including the <i>"Manager"</i> will have a final <b>Preview</b> on the same.
+ </p>
+ <p align="justify">
+ 9.<b> Publish:</b> <i>Hooray,:tada: we have <b>Published</b> our work.</i>:rocket:.  Now, it's time for party.:champagne:
+ </p>
