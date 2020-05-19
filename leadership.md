@@ -70,10 +70,9 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
   <li>Mention different timezones</li>
   <li>Options for selecting appropriate time</li>
   <li>Time Duration for different tasks</li>
-  <ul>
+  </ul>
    and most importantly,<b><i> Organise</i></b> everything in an effective manner.
  </p>
-
 
 ## Task Management
 The *Task Management* will go efficiently if we all , whole as a team, must follow the following **10 P's**: 
