@@ -17,15 +17,13 @@ While keenly observing the above classifications, it should be noted that it fol
 3. <strong>T</strong>ask Management
 <p>
  
- ## Team Managemt
-<img src="Team.png" width="47%" align="left" hspace="20" vspace="20">
-<p align="justify">
-Remote success falls on the manager, which is why you want to give enough detail on tasks so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
-The reality is project management is your new job when you choose to work with remote folk
-So, to reach that balance, you need to A) give concise directions, and B) anticipate the things the remote worker may need, to reduce their need to ask questions you could have already answered for them. 17% of remote workers have problems collaborating and communicating with their team when their managers can't do these basic things.Remote success falls on the manager, which is why you want to give enough detail on tasks so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
-The reality is project management is your new job when you choose to work with remote folk
-So, to reach that balance, you need to A) give concise directions, and B) anticipate the things the remote worker may need, to reduce their need to ask questions you could have already answered for them. 17% of remote workers have problems collaborating and communicating with their team when their managers can't do these basic things.
+ ### Team Managemt
+ <p align="justify">
+ <b><i>Team Management</i></b> is not only done by the manager of the team, it's you also, as a member of the same gropu which constitutes finally as a team which let us not to forget that a <b><i>Manager is also one of the member of the same  team to which you also belongs</i></b>
 </p>
+<img src="Team.png" width="47%" align="left" hspace="20" vspace="20">
+
+
 
 
 ### Task Management
