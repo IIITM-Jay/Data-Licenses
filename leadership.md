@@ -7,7 +7,7 @@
 While working in a group or a team, every individual must take care of the following classifications of the *Management*:   
 
 <p align="center">
-<img src="managing.png" width="700"/>
+<img src="managing.png" width="700" height="500"/>
 </p>
 <p align="justify">
  
