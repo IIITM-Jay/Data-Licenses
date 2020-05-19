@@ -45,6 +45,14 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
  </ol>
 <ul>
  <li><b>As a Team Member:  :busts_in_silhouette: </b></li>
+ <div class="row">
+  <div class="col-md-8" markdown="1">
+  Some text.
+  </div>
+  <div class="col-md-4" markdown="1">
+  <!-- ![Alt Text](../img/folder/blah.jpg) -->
+You successeed.  </div>
+</div>
 </ul>
 
  ## Time Management
