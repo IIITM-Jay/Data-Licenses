@@ -33,13 +33,13 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
  </p>
         <li><b><i>Respect and Appreciate everyone's contribution:</i></b>
              <p align="justify">
-              <i>“Respect is a two-way street, if you want to get it, you’ve got to give it.”
-               -R.G. Risch</i> </br>
- Manager should respect everyone and everybody's time, meanwhile appreciating their works, which will even help yu as if a manager to strengthen your bond between your team members and <b>let them feel included as a team</b>.
+              <p style="color:red"<i>“Respect is a two-way street, if you want to get it, you’ve got to give it.”
+               -R.G. Risch</i></p> </br>
+ Manager should respect everyone and everybody's time, meanwhile appreciating their works, which will even help you as if a manager to strengthen your bond between your team members and <b>let them feel included as a team</b>.
          </p>
 <li><b><i>Solve your team members' issues:</i></b>
   <p align="justify">
-   Manager should ensure that nobody is facing any type of difficulties whether it's a communication issue or a technical problem. Manager sholud keep a check on communication channels to confirm it follows through the right path and fixing out any issue , if so occured which help them to even creating the bond stronger among their colleagues.  
+   Manager should ensure that nobody is facing any type of difficulties whether it's a communication issue or a technical problem. Manager sholud keep a check on communication channels to confirm that it follows through the right path and fixing out any issue , if so occured which help them to even create more stronger bond stronger among their colleagues.  
  </p>
 
 
