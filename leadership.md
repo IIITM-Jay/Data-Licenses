@@ -21,7 +21,7 @@ While keenly observing the above classifications, it should be noted that it fol
  <p align="justify">
  <b><i>Team Management</i></b> is something which is not only done by the manager of the team, it's you also, as a member of the same group which constitutes finally as a team which lets you not to forget that the <b><i>Manager is also one of the member of the same  team to which you also belong.</i></b>The following points must be taken care of by both, the <i>The Manager</i> as well as the <i>The Team Member</i>:
 </p>
-<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/Team.png" width="45%" height="70%" align="left" hspace="20" vspace="20">
+<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/Team.png" width="75%" height="70%" align="left" hspace="20" vspace="20">
 <ul>
  <li><b>As a Manager: :man_judge:</b></li>
 </ul>
