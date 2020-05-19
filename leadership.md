@@ -49,7 +49,7 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
   <div class="col-md-4" markdown="1">
     Manager should ensure that nobody is facing any type of difficulties whether it's a communication issue or a technical problem. Manager sholud keep a check on communication channels to confirm that it follows through the right path and fixing out any issue 
   </div>
-  <div class="col-md-4" markdown="1">
+  <div class="col-md-8" markdown="1">
   <!-- ![Alt Text](../img/folder/blah.jpg) -->
   Manager should ensure that nobody is facing any type of difficulties whether it's a communication issue or a technical problem. Manager sholud keep a check on communication channels to confirm that it follows through the right path and fixing out any issue   </div>
 </div>
