@@ -28,9 +28,17 @@ While keenly observing the above classifications, it should be noted that it fol
   <ol>
    <li><b><i>Ensure everybody's involvement:</i></b>
     <p align="justify">
-It's only the manager of the team who binds whole team as one unit ensuring participation of each and every member of the team. Although this is one of the prominent challenging task for a manager where the team members are located remotely as all of them will have their different timezones. This issue has been discussed in 
+It's only the manager of the team who binds the whole team as one unit ensuring participation of each and every member of the team. Although this is one of the prominent challenging task for a manager where the team members are located remotely as all of them will have their different timezones. This issue has been discussed in 
 <a href="https://github.com/IIITM-Jay/Data-Licenses/blob/master/leadership.md#time-management">Time Management</a>
-</p>
+ </p>
+        <li><b><i>Respect and Appreciate everyone's contribution:</i></b>
+             <p align="justify">
+              <i>“Respect is a two-way street, if you want to get it, you’ve got to give it.”
+               -R.G. Risch</i> </br>
+ Manager should respect everyone and everybody's time, meanwhile appreciating their works.
+         </p>
+
+
 
 
 
