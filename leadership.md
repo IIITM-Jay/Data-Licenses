@@ -63,7 +63,7 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
  ## Time Management
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/time_manage.png" width="50%" align="left" hspace="0" vspace="0">
 <p align="justify">
-<b><i>"Time is the wisest counselor of all." – Pericles.</i></b> and <b><i>"The key is in not spending time, but in investing it." – Stephen R. Covey.</i></b> and hence one of the most prominent challenge as discussed in the previous section. Even it's more difficult to establish a best communication channel among the members of the team who are remotely located. Although there are various platforms on which this can be approach like <a href="https://zoom.us/">Zoom></a>,
+<b><i>"Time is the wisest counselor of all." – Pericles.</i></b> and <b><i>"The key is in not spending time, but in investing it." – Stephen R. Covey.</i></b> and hence one of the most prominent challenge as discussed in the previous section. Even it's more difficult to establish a best communication channel among the members of the team who are remotely located. Although there are various platforms on which this can be approach like <a href="https://zoom.us/">Zoom</a>,<a href="https://slack.com/intl/en-in/">Slack</a>,<a href="https://www.troopmessenger.com/">Troop Messenger</a>,<a href="https://gitter.im/">Gitter</a>, and many more. But, the common problem among them all is the different timezones of the team members whose locations are varied.
  </p>
 
 
