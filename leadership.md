@@ -24,8 +24,7 @@ The *Task Management* will go efficiently if we all , whole as a team, must foll
 
  
 1. __Participation:__ The First **P** stands for *Participation* which emphasizes on full involvement of each and every
-<p align="justify"> 
-member of a team. It's your responsibility that you should take part every  specific discussion as one of the team member, sharing your own ideas. Of course! the manager will make ensure that everybody is present, but you should join the team by your own thinking that you are also one of the worthiest member of the team and hence you are included.
+<p align="justify"> member of a team. It's your responsibility that you should take part every  specific discussion as one of the team member, sharing your own ideas. Of course! the manager will make ensure that everybody is present, but you should join the team by your own thinking that you are also one of the worthiest member of the team and hence you are included.
  </p>
 2. **Produce:**</br>
 </p>
