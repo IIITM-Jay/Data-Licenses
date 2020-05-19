@@ -24,8 +24,9 @@ The *Task Management* will go efficiently if we all , whole as a team, must foll
 1. <b>Participation:</b> The First <b>P</b> stands for <i>Participation</i> which emphasizes on full involvement of each and every member of a team. It's your own responsibility that you should take part in every specific discussion as one of the team member, sharing your own ideas. Of course! the manager will make ensure that everybody is present, but you should join the team by your own thought that you are also one of the <b><i>"Worthiest Member"</b></i> :busts_in_silhouette: of the team and hence you are included.
 </p>
 <p align="justify">
-2.<b> Produce:</b> For any task to work on, the first thing is that you should have an idea to be discussed upon in a team i.e., you must <b><i> Produce</i></b> unique and varied ideas so that everybody should consider it interesting. <i>However, never hesitate to talk about the ideas with your team, no matter whether it's a small idea, your ideas are always welcome:handshake: as this is your own team in which you are wrking in.</i>
+2.<b> Produce:</b> For any task to work on, the first thing is that you should have an idea to be discussed upon in a team i.e., you must <b><i> Produce</i></b> unique and varied ideas so that everybody should consider it interesting. <i>However, never hesitate to talk about the ideas with your team, no matter whether it's a small idea, your ideas are always welcome:handshake: as this is "your own team" in which you are working in.</i>
 </p>
+
 <p align="justify">
 Remote success falls on the manager, which is why you want to give enough detail on tasks so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
 Remote success falls on the manager, which is why you want to give enough detail on tasks so your remote workers can succeed. But you also don’t want to spend an excessive amount of time assigning projects (when you could be doing other things)
