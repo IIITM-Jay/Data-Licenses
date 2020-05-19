@@ -99,7 +99,7 @@ The *Task Management* will go efficiently if we all , whole as a team, must foll
  </ul>
  </p>
  <p align="justify">
-5.<b> Priorities:</b> After getting ready with the plan, ask the manager or discuss among the team members to <b>Prioritize</b> the tasks accordingly and set the milestones correspondingly. Manager/ Group leadr will take care of the allocation of the task according to the skills each member possesses.
+5.<b> Priorities:</b> After getting ready with the plan, ask the manager or discuss among the team members to <b>Prioritize</b> the tasks accordingly and set the milestones correspondingly. Manager/ Group leader will take care of the allocation of the task according to the skills each member possesses.
  </p>
  <p align="justify">
  6.<b> Perform:</b> It's the responsibility of all the team members to work according to the allocated tasks and complete it on time to be get reviewed as early as possible for incorporating the feedbacks.
@@ -118,5 +118,6 @@ The *Task Management* will go efficiently if we all , whole as a team, must foll
 
 ## Leadership
 <p align="justify">
-Managing is not an easy task , as mentioned above. It takes a lot of efforts to organize and conduct in an effective manner taking care of all the above points. Therefore, a <b>"Leader/ Manager"</b> should be respected. A <i>leader/ Manager</i> is the only one <b><i>"Who ties all the team members together into a single rope whose knot can't be opened easily."</i></b> signifying <i>"Unity is strength... when there is teamwork and collaboration, wonderful things can be achieved."</i>
+Managing is not an easy task , as mentioned above. It takes a lot of efforts to organize and conduct in an effective manner taking care of all the above points. Therefore, a <b>"Leader/ Manager"</b> should be respected. A <i>leader/ Manager</i> is the only one <b><i>"Who ties all the team members together into a single rope whose knot can't be opened easily."</i></b> signifying <i>"Unity is strength... when there is teamwork and collaboration, wonderful things can be achieved."</i><br>
+ A leader must concern about all three managements discussed and keep regularly discussing with the team members.
 </p>
