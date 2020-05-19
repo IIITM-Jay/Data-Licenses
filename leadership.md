@@ -22,12 +22,14 @@ While keenly observing the above classifications, it should be noted that it fol
  <b><i>Team Management</i></b> is something which is not only done by the manager of the team, it's you also, as a member of the same group which constitutes finally as a team which lets you not to forget that the <b><i>Manager is also one of the member of the same  team to which you also belong.</i></b>The following points must be taken care of by both, the <i>The Manager</i> as well as the <i>The Team Member</i>:
 </p>
 <img src="Team.png" width="45%" align="left" hspace="20" vspace="20">
-<p align="justify">
 <ul>
  <li><b>As a Manager: :man_judge:</b></li>
 </ul>
   <ol>
-   <li><b><i>Ensure everybody's involvement:</i></b> It's only the manager of the team who binds whole team as one unit ensuring participation of each and every member of the team. Although this is one of the prominent challenging task for a manager where the team members are located remotely as all of them will have their different timezones. This issue has been discussed in Time Management.
+   <li><b><i>Ensure everybody's involvement:</i></b>
+    <p align="justify">
+It's only the manager of the team who binds whole team as one unit ensuring participation of each and every member of the team. Although this is one of the prominent challenging task for a manager where the team members are located remotely as all of them will have their different timezones. This issue has been discussed in 
+<a href="https://github.com/IIITM-Jay/Data-Licenses/blob/master/leadership.md#time-management">Time Management</a>
 </p>
 
 
