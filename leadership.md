@@ -1,7 +1,7 @@
 # Leadership and Management
 ## Management
 <p align="justify">
-The term <b>"Management"</b> always leads us to think about the ways for _organising, controlling_ and most pre-eminently *coordinating* the works, events and persons together as a team so as to accomplish <b>"Team Work"</b>. <i>But have you ever give a thought that it never discusses about the location of the team members, no matter wherever you and your team members are located, whether nearby or faraway, you have to manage your tasks and work efficiently as well as productively!!!</i>:thinking: 
+ The term <b><i>"Management"</i></b> always leads us to think about the ways for _organising, controlling_ and most pre-eminently *coordinating* the works, events and persons together as a team so as to accomplish <b>"Team Work"</b>. <i>But have you ever give a thought that it never discusses about the location of the team members, no matter wherever you and your team members are located, whether nearby or faraway, you have to manage your tasks and work efficiently as well as productively!!!</i>:thinking: 
 </p>
 
 While working in a group or a team, every individual must take care of the following classifications of the *Management*:   
@@ -22,7 +22,7 @@ The *Task Management* will go efficiently if we all , whole as a team, must foll
 <img src="task.png" width="30%" align="left" hspace="20" vspace="20">
 <p align="justify">
  
-1. <b>Participation:</b> The First <b>P</b> stands for <i>Participation</i> which emphasizes on full involvement of each and every member of a team. It's your own responsibility that you should take part in every specific discussion as one of the team member, sharing your own ideas. Of course! the manager will make ensure that everybody is present, but you should join the team by your own thinking that you are also one of the worthiest member of the team and hence you are included.
+1. <b>Participation:</b> The First <b>P</b> stands for <i>Participation</i> which emphasizes on full involvement of each and every member of a team. It's your own responsibility that you should take part in every specific discussion as one of the team member, sharing your own ideas. Of course! the manager will make ensure that everybody is present, but you should join the team by your own thought that you are also one of the worthiest member of the team and hence you are included.
 </p>
 2. **Produce:**</br>
 </p>
