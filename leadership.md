@@ -41,7 +41,7 @@ It's only the manager of the team who binds the whole team as one unit ensuring 
          </p>
 <li><b><i>Solve your team members' issues:</i></b>
   <p align="justify">
-   Manager should ensure that nobody is facing any type of difficulties whether it's a communication issue or a technical problem. Manager sholud keep a check on communication channels to confirm that it follows through the right path and fixing out any issue , if so occured which help them to even create more stronger bond stronger among their colleagues.  
+   Manager should ensure that nobody is facing any type of difficulties whether it's a communication issue or a technical problem. Manager sholud keep a check on communication channels to confirm that it follows through the right path and fixing out any issue , if so occured which help them to even create more stronger bond among their colleagues.  
  </p>
  <li><b><i>Give equal opportunities:</i></b>
 <p align="justify">
