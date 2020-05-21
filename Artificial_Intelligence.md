@@ -25,7 +25,7 @@ It would be unfair to judge the originality of work in the field of <b>"Ariticia
  * <p align="justify"> CC licenses solves much of the issues with copyrights on AI, but not actually fits with the concerns, as there are many issues which are not still addresed. Get more clarifications <a href="https://creativecommons.org/faq/#artificial-intelligence-and-cc-licenses">here</a>.
   </p>
 
-* <p align="justify"> <a href="https://www.montrealdatalicense.com/en">Montreal Data License (MDL)</a>  was initiated with more clarification and explication for use cases in the field of <b>Machine Learning</b> and <b>AI</b>. The main aim of MDL is to bulid a platform towards a common framework for data licensing akin to the licensing of open source software.
+* <p align="justify"> <a href="https://www.montrealdatalicense.com/en">Montreal Data License (MDL)</a>  was initiated with more clarification and explication for use cases in the field of <b>Machine Learning</b> and <b>AI</b>. The main aim of MDL is to bulid a platform towards a common framework for data licensing akin to the licensing of open source software.It provides a taxonomy for the licensing of data in the fields of artificial intelligence and machine learning. 
   </p>
   
 * <p align="justify"> There should be mutual agreements between all the three parties in the field of AI and Machine Leanring i.e., <b><i>Developer,Owner</i></b> and <b><i>End Users</i></b>. It should be ensured that everybody is enjoying the rights as required and nobody is over enjoying the rights.
