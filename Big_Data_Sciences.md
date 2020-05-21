@@ -1,7 +1,7 @@
 # Data Sciences and Big Data
 <p align="justify">
 When we talk about <i>Data Sciences</i> and <i>Big Data</i>, they are nevertheless all about data. From people's way of thinking to their lifestyle and daily habits, everything has changed and yet changing with that much of speed as that of light.
-  While both the terms are correlated with each other, <b>Data Sciences</b> is a vast and broader topic which covers data mining, deep learning and big data.From above, it's clear that everything depends on data and hence we should must concern about its *protection* keeping in mind the ***Reusable*** ,one of the underlying principles and practices of <a href="https://the-turing-way.netlify.app/rdm/fairprinciples.html">FAIR data management</a>.
+  While both the terms are correlated with each other, <b>Data Sciences</b> is a vast and broader topic which covers data mining, deep learning and big data.From above, it's clear that everything depends on data and hence we should must concern about its <i>protection</i> keeping in mind the <b><i>Reusable</i></b> ,one of the underlying principles and practices of <a href="https://the-turing-way.netlify.app/rdm/fairprinciples.html">FAIR data management</a>.
   </p>
 
 ## Data Licensing in Big Data:
