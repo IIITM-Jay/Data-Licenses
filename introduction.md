@@ -5,5 +5,5 @@ The primary influence behind ***Data Licensing*** is to make ensure that the dat
 
 [Creative Commons (CC)](https://creativecommons.org) provides a bunch of licenses for various categories which assist you with shareability and reusablity of your data by handing-out free licenses that lets you to have certain permissions in-hand for diverse utilities in different scenarios. These scenarios can be referred from the flow chart that follows:
 <p align="center">
-<img src="scenarios.png" alt="drawing" width="670"/>
+<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/scenarios.png" alt="drawing" width="670"/>
 </p>
