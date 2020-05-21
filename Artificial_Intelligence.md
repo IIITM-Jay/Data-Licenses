@@ -18,12 +18,17 @@ It would be unfair to judge the originality of work in the field of <b>"Ariticia
 * <p align="justify">
   There are two parties which claims for an authorship , one who is the <b>"Real Developer"</b> and others are the <b>"Owners"</b> i.e., who provides the financial support for AI devices and machines to work properly.
   </p>
+* <p align="justify">
+  <b>The World of Vendors and Users:</b>Generally, large volumes of high-quality data for training arerequired in order to develop highly accurate and competitive AI-based software. The  data  required  for development  is provided to a Vendor by a User. In some cases, the data provided to a Vendor by a User is economically valuable or confidential data that is a source of a corporation’s competitive edge, such as when the data is acquired by the User through enormous commitmentof labor and expense or when that data is client data, production management data, or data embodying know-how. Accordingly, aligning the needs of Users with respect to their data and the needs of Vendors with respect to making use of deliverables is  a problem.  
   
 ### Solutions:
  * <p align="justify"> CC licenses solves much of the issues with copyrights on AI, but not actually fits with the concerns, as there are many issues which are not still addresed. Get more clarifications <a href="https://creativecommons.org/faq/#artificial-intelligence-and-cc-licenses">here</a>.
   </p>
 
-* <p align="justify"> <a href="https://www.montrealdatalicense.com/en">Montreal Data License (MDL)</a>  was initiated with more clarification and explication for use cases in the field of <b>Machine Learning</b> and <b>AI</b>. The main of MDL is to bulid a platform towards a common framework for data licensing akin to the licensing of open source software.
+* <p align="justify"> <a href="https://www.montrealdatalicense.com/en">Montreal Data License (MDL)</a>  was initiated with more clarification and explication for use cases in the field of <b>Machine Learning</b> and <b>AI</b>. The main aim of MDL is to bulid a platform towards a common framework for data licensing akin to the licensing of open source software.
+  </p>
+  
+* <p align="justify"> There should be mutual agreements between all the three parties in the field of AI and Machine Leanring i.e., <b><i>Developer,Owner</i></b> and <b><i>End Users</i></b>. It should be ensured that everybody is enjoying the rights as required and nobody is over enjoying the rights.
   </p>
   
   
