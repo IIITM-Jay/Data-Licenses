@@ -16,7 +16,7 @@ production of data and ensuring access to data in order to produce wider benefit
   
   ## Database protection:
   <p align="justify">
-  Databases may be protected in the <a href="https://wiki.creativecommons.org/wiki/Data#Which_components_of_a_database_are_protected_by_sui_generis_database_rights.3F">by a sui generis database right</a>, while a similar protection is
+  Databases may be protected in the <a href="https://wiki.creativecommons.org/wiki/Data#Which_components_of_a_database_are_protected_by_sui_generis_database_rights.3F">EU by a sui generis database right</a>, while a similar protection is
 granted in other countries through unfair competition law. The sui generis database right was
 developed in order to protect data producers’ investments and to prevent free-riding on somebody else's
 investment in creating the database. It provides that a data producer can prohibit the extraction
