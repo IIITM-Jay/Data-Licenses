@@ -10,7 +10,7 @@ When we talk about <i>Data Sciences</i> and <i>Big Data</i>, they are neverthele
   for copyrighted data</b> (e.g. videos or photos), <b>privacy protection for personal data</b> (e.g. name, voice, IP addresses) or other <b>intellectual property</b> similar rights for confidential information (e.g. customer lists or other business information), to relative <b>personal protections</b>, such as the one granted by contractual agreements for instance for <b>raw data</b> (e.g. <i>technical and training data used by AI systems, research data or machine-generated data.</i>)</br>
   When it comes to these protections, policymakers and regulators face the challenge of finding the right
 balance between protection and access, i.e. between granting exclusive rights as an incentive for the
-production of data and ensuring access to data in order to produce wider benefits for society.
+production of data and ensuring access to data in order to produce wider benefits for society.</br>
 <a href="https://gdpr-info.eu/">European Union(EU) General Data Protection Regulation (GPDR)</a> provides the platform which resolves data protection and security to wider extent.
   </p>
   
