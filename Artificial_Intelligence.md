@@ -30,5 +30,7 @@ It would be unfair to judge the originality of work in the field of <b>"Ariticia
   
 * <p align="justify"> There should be mutual agreements between all the three parties in the field of AI and Machine Leanring i.e., <b><i>Developer,Owner</i></b> and <b><i>End Users</i></b>. It should be ensured that everybody is enjoying the rights as required and nobody is over enjoying the rights.
   </p>
+
+* <p align="justify"> Ai technology requires both the <i>Software</i> as well as <i>Data Licenses<i>, and hence there must be a balance between <b>"Reusability"</b> along with the <b>"Protection"</b> of the data included in the trending filed of AI and ML.
   
   
