@@ -2,6 +2,7 @@
 <p align="justify">
 It would be unfair to judge the originality of work in the field of <b>"Ariticial Intelligence (AI)"</b>, as its algorithms differ to a large extent in the depth and breadth of input which is vitally consists of random snippets composed of thousands and millions of works required to produce articulate and cogent outputs.
   </p>
+
 ### Some prominent challenges of AI:
 * The ethical use of AI.
 * Legal amenability regarding AI and the data that fuels AI.
