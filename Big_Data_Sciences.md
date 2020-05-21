@@ -6,9 +6,8 @@ When we talk about <i>Data Sciences</i> and <i>Big Data</i>, they are neverthele
 
 ## Data Licensing in Big Data:
 <p align="justify">
-  Data loss is one of the major problem while working on big data. While big data enables smooth life for people, meanwhile also has become a major threat regading data leakage and losses. Data may be defined with reference to their varied and sometimes overlapping legal regimes. These reigns range from absolute protections, such as those granted by copyright
-for copyrighted data (e.g. videos or photos), privacy protection for personal data (e.g. name, voice, IP addresses) or
-other intellectual property similar rights for confidential information (e.g. customer lists or other business information), to relative personal protections, such as the one granted by contractual agreements for instance for raw data (e.g. technical and training data used by AI systems, research data or machine-generated data.</br>
+  Data loss is one of the major problem while working on big data. While big data enables smooth life for people, meanwhile also has become a major threat regading data leakage and losses. Data may be defined with reference to their varied and sometimes overlapping legal regimes. These reigns range from absolute protections, such as those granted by <b>copyright
+  for copyrighted data</b> (e.g. videos or photos), <b>privacy protection for personal data</b> (e.g. name, voice, IP addresses) or other <b>intellectual property</b> similar rights for confidential information (e.g. customer lists or other business information), to relative <b>personal protections</b>, such as the one granted by contractual agreements for instance for <b>raw data</b> (e.g. <i>technical and training data used by AI systems, research data or machine-generated data.</i>)</br>
   When it comes to these protections, policymakers and regulators face the challenge of finding the right
 balance between protection and access, i.e. between granting exclusive rights as an incentive for the
 production of data and ensuring access to data in order to produce wider benefits for society.
