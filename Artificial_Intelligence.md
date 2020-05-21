@@ -15,6 +15,9 @@ It would be unfair to judge the originality of work in the field of <b>"Ariticia
   </p>
   
 ### Solutions:
-  * <p align="justify">
+ * <p align="justify"> CC licenses solves much of the issues with copyrights on AI, but not actually fits with the concerns, as there are many issues which are not still addresed. Get more clarifications <a href="https://creativecommons.org/faq/#artificial-intelligence-and-cc-licenses">here</a>.
+  </p>
+ * <p align="justify"> <a href="https://www.montrealdatalicense.com/en">Montreal Data License</a> was initiated with more clarification and explication for use cases in the field of <b>Machine Learning</b> and <b>AI</b>.
+  </p>
   
   
