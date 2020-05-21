@@ -12,3 +12,15 @@ When we talk about <i>Data Sciences</i> and <i>Big Data</i>, they are neverthele
 balance between protection and access, i.e. between granting exclusive rights as an incentive for the
 production of data and ensuring access to data in order to produce wider benefits for society.
   </p>
+  
+  ## Database protection:
+  <p align="justify">
+  Databases may be protected in the <a href="https://wiki.creativecommons.org/wiki/Data#Which_components_of_a_database_are_protected_by_sui_generis_database_rights.3F">by a sui generis database right</a>, while a similar protection is
+granted in other countries through unfair competition law. The sui generis database right was
+developed in order to protect data producers’ investments and to prevent free-riding on somebody else's
+investment in creating the database. It provides that a data producer can prohibit the extraction
+(downloading and transfer of data or datasets to another medium) and/or reuse (making available to the
+public) of the whole or of a substantial part of a database, as long as the producer made a substantial
+investment to obtain, verify and/or present the data collected 23 . This is irrespective of the individual
+copyright protection of the underlying data. Such a right may exist for both inputs or outputs.
+</p>
