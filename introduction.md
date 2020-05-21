@@ -3,7 +3,7 @@ The primary influence behind ***Data Licensing*** is to make ensure that the dat
 
 **Data Licenses** are a sort of memorandum that settles the acceptance between the two porties of which one of them is the author/ producer of the data and the next is the user of the same.
 
-[Creative Commons](https://creativecommons.org) provides a bunch of licenses for various categories which assist you with shareability and reusablity of your data by handing-out free licenses that lets you to have certain permissions in-hand for diverse utilities in different scenarios. These scenarios can be referred from the flow chart that follows:
+[Creative Commons (CC)](https://creativecommons.org) provides a bunch of licenses for various categories which assist you with shareability and reusablity of your data by handing-out free licenses that lets you to have certain permissions in-hand for diverse utilities in different scenarios. These scenarios can be referred from the flow chart that follows:
 <p align="center">
 <img src="scenarios.png" alt="drawing" width="670"/>
 </p>
