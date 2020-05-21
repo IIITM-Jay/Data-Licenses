@@ -21,6 +21,6 @@ developed in order to protect data producers’ investments and to prevent free-
 investment in creating the database. It provides that a data producer can prohibit the extraction
 (downloading and transfer of data or datasets to another medium) and/or reuse (making available to the
 public) of the whole or of a substantial part of a database, as long as the producer made a substantial
-investment to obtain, verify and/or present the data collected 23 . This is irrespective of the individual
+investment to obtain, verify and/or present the data collected. This is irrespective of the individual
 copyright protection of the underlying data. Such a right may exist for both inputs or outputs.
 </p>
