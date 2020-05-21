@@ -11,6 +11,7 @@ When we talk about <i>Data Sciences</i> and <i>Big Data</i>, they are neverthele
   When it comes to these protections, policymakers and regulators face the challenge of finding the right
 balance between protection and access, i.e. between granting exclusive rights as an incentive for the
 production of data and ensuring access to data in order to produce wider benefits for society.
+<a href="https://gdpr-info.eu/">European Union(EU) General Data Protection Regulation (GPDR)</a> provides the platform which resolves data protection and security to wider extent.
   </p>
   
   ## Database protection:
