@@ -7,8 +7,11 @@
 ### AI Branches and Data Protection
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/branches.png" width="50%" align="right" hspace="20" vspace="20">
 <p align="justify">
-  The main motive to include this section uder <i>Data Licenses</i> is not to discuss about the most trending topic as so called <b><i>"Artificial Intelligence"</i></b> and its growing importance in our day-to-day life but, to develop awareness among the readers regarding its authorships and its related concerns with respect to <b>"Data Protection"</b>, whenever anybody wants to make a move in this vast field of AI. </br>
-  It's very important to know our readers that the base of this field is nevertheless the <b>"Data"</b>, and hence its a matter of concern to protect the data it includes via <i>Authorships, Settlements and Mutual Agreements</i>. 
+  As AI has advanced too much, its increasing significance in the branches as depicted on the right side too has some major threats that needs to be taken careof:
+  <ul>
+    <li><b>Clinical AI:</b></i><p align="justify"> We all know that data related to pateint's health is needed to be feed in the AI machines, so as to have AI algorithms, the better beneficial impact to the patients to whom they are applied and resulting knowledge should lead to measurable utility for the patient and outweigh associated risks or
+potential harms. But, the conerns is that <b><i>there must be some regulations regarding patient privacy and their confidential data for sharing</i></b> whenever AI is used for health care purposes.
+   
   </p>
 
 ### AI and Authorship
