@@ -16,13 +16,12 @@
 potential harms. But, the conerns is that <b><i>there must be some regulations regarding patient privacy and their confidential data for sharing</i></b> whenever AI is used for health care purposes. We all know that data related to pateint's health is needed to be feed in the AI machines, so as to have AI algorithms, the better beneficial impact to the patients to whom they are applied and resulting knowledge should lead to measurable utility for the patient and outweigh associated risks or
   </ul>
   </p>
-<table>
- 
-  <tr>
-    <td>Icon</th>
-    <td>Right</th>
-    </tr>
-  </table>
+  
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
   
 ### AI and Authorship
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/AI.png" width="40%" align="left" hspace="20" vspace="20">
