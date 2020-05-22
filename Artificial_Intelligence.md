@@ -8,7 +8,8 @@
   
 ### AI Branches and Data Protection
 <p align="justify">
-  As AI has advanced too much, its increasing significance in the branches as depicted on the right side too has some major threats that needs to be taken careof:
+  As AI has advanced too much, its increasing significance in the branches as depicted on the right side too has some major threats that needs to be taken careof:</p>
+  
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/B.png" width="51%" align="right" hspace="20" vspace="20">
   <ul>
     <li><b>Clinical AI:</b></i><p align="justify"> We all know that data related to pateint's health is needed to be feed in the AI machines, so as to have AI algorithms, the better beneficial impact to the patients to whom they are applied and resulting knowledge should lead to measurable utility for the patient and outweigh associated risks or
