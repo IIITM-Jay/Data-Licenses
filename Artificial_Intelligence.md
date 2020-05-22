@@ -17,11 +17,10 @@ potential harms. But, the conerns is that <b><i>there must be some regulations r
   </ul>
   </p>
   
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables        | Are           |
+|               |               | 
+| col 3 is      | right-aligned | 
+
   
 ### AI and Authorship
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/AI.png" width="40%" align="left" hspace="20" vspace="20">
