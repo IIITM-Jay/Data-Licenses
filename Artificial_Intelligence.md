@@ -17,9 +17,9 @@ potential harms. But, the conerns is that <b><i>there must be some regulations r
   </ul>
   </p>
   
-| Cat Breeds | Color         | 
-| :--------- | :-----------: | 
-| Maine Coon | All types     | 
+ Cat Breeds | Color         
+ :--------- | :-----------: 
+ Maine Coon | All types      
   
   
 ### AI and Authorship
