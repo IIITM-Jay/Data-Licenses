@@ -5,7 +5,7 @@
   </p>
   
 ### AI Branches and Data Protection
-<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/branches.png" width="60%" align="right" hspace="20" vspace="20">
+<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/branches.png" width="50%" align="right" hspace="20" vspace="20">
 <p align="justify">
   The main motive to include this section uder <i>Data Licenses</i> is not to discuss about the most trending topic as so called <b><i>"Artificial Intelligence"</i></b> and its growing importance in our day-to-day life but, to develop awareness among the readers regarding its authorships and its related concerns with respect to <b>"Data Protection"</b>, whenever anybody wants to make a move in this vast field of AI. </br>
   It's very important to know our readers that the base of this field is nevertheless the <b>"Data"</b>, and hence its a matter of concern to protect the data it includes via <i>Authorships, Settlements and Mutual Agreements</i>. 
