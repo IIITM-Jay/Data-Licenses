@@ -17,12 +17,8 @@ potential harms. But, the conerns is that <b><i>there must be some regulations r
   </ul>
   </p>
   
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
+<p text-align="right">the AI machines, so as to have AI algorithms, the better beneficial impact to the patients to whom they are applied and resulting knowledge should lead to measurable utility for the patient and outweigh associated risks or
+potential harms. But, the conerns is that <b><i>there must be some regulations regarding patient privacy and their confidential data for sharing</i></b> whenever AI is used for health care purposes. We all know that data related to pateint's health is needed </p>
   
   
 ### AI and Authorship
