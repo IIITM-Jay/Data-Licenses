@@ -32,5 +32,7 @@ It would be unfair to judge the originality of work in the field of <b>"Ariticia
   </p>
 
 * <p align="justify"> Ai technology requires both the <i>Software</i> as well as <i>Data Licenses</i>, and hence there must be a balance between <b>"Reusability"</b> along with the <b>"Protection"</b> of the data included in the trending filed of AI and ML.
+  </p>
+  - [] 
   
   
