@@ -22,10 +22,10 @@ potential harms. But, the conern is that <b><i>there must be some regulations re
     <li><b>Financial Services:</b></li><p align="justify"> Although knowing the significance of AI in the financial services, as dicussed in the left side, it always been a fraud prone area when financial related data are being stolen by some wrong persons and misused by them. It's even more challenging to train AI algorithms to decide what is fraud and what-not, and which too needs a large volume of data. Firm or industry therefore thinks for nearly thousand times and checks for any loop hole before implementing AI for financial purposes.
   </ul>
   </p>
+  
   <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/M.png" width="40%" align="right" hspace="20" vspace="20">
  <ul>
-    <li><b>Clinical AI:</b></i><p align="justify"> We all know that data related to pateint's health is needed to be feed in the AI machines, so as to have AI algorithms, the better beneficial impact to the patients to whom they are applied and resulting knowledge should lead to measurable utility for the patient and outweigh associated risks or
-potential harms. But, the conerns is that <b><i>there must be some regulations regarding patient privacy and their confidential data for sharing</i></b> whenever AI is used for health care purposes. We all know that data related to pateint's health is needed to be feed in the AI machines, so as to have AI algorithms, the better beneficial impact to the patients to whom they are applied and resulting knowledge should lead to measurable utility for the patient and outweigh associated risks or
+    <li><b>Marketing:</b></i><p align="justify"> Whenever you are placing orders on famous marketing platforms as that of Amazon and many more, you are giving many of your datas like bank account details, and many more related to bankings which should not be leaked anyhow, although they have played a very important role in quick and faster shopping and even you can do so when you are at home. AI is learning from your shopping, the interest in various commodities as per your previous orders and hence it's clear that AI is learning from your feeded data.
   </ul>
   </p>
   
