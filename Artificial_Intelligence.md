@@ -19,7 +19,7 @@ potential harms. But, the conern is that <b><i>there must be some regulations re
   
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/F.png" width="40%" align="left" hspace="20" vspace="20">
  <ul>
-    <li><b>Financial Services:</b></li><p align="justify"> Although knowing the significance of AI in the financial services, as dicussed in the left side, it always been a fraud prone area when financial related data are being stolen by some wrong persons and misusing them. It's even more challenging to train AI algorithms to decide what is fraud and what-not, and which too needs a large volume of data. 
+    <li><b>Financial Services:</b></li><p align="justify"> Although knowing the significance of AI in the financial services, as dicussed in the left side, it always been a fraud prone area when financial related data are being stolen by some wrong persons and misused by them. It's even more challenging to train AI algorithms to decide what is fraud and what-not, and which too needs a large volume of data. Firm or industry therefore thinks for nearly thousand times and checks for any loop hole before implementing AI for financial purposes.
   </ul>
   </p>
   <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/M.png" width="40%" align="right" hspace="20" vspace="20">
