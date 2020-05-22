@@ -1,3 +1,11 @@
+
+article .end-examples ~ p,
+article .end-examples ~ h2,
+article .end-examples ~ .highlight {
+    width: auto;
+    float: none;
+    clear: none;
+}
 ## Artificial Intelligence and Licenses
 <p align="justify">
   The main motive to include this section uder <i>Data Licenses</i> is not to discuss about the most trending topic as so called <b><i>"Artificial Intelligence"</i></b> and its growing importance in our day-to-day life but, to develop awareness among the readers regarding its authorships and its related concerns with respect to <b>"Data Protection"</b>, whenever anybody wants to make a move in this vast field of AI. </br>
