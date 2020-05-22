@@ -31,10 +31,11 @@ potential harms. But, the conern is that <b><i>there must be some regulations re
   
 ### AI Ownership and Authorship
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/AI.png" width="40%" align="left" hspace="20" vspace="20">
-<p align="justify"> There are three possible parties which may have claims to the copyright of AI generated works: AI
-  <b><i>Programmers; Owners</i></b> (large companies and financial investors in the AI sector); and <b><i>End Users</i></b>. When finding the best possible author, it is crucial to consider the overall social benefit of the copyright attribution process. In other words, would society benefit most if copyright is assigned to the AI programmer, the investors responsible for funding the development of the AI, or the potentially millions of end users of AI programs. To better gauge the societal impact of each party, we must first determine the ultimate goal of assigning copyright of AI generated works to human authors. Next, we can examine which party contributes most to this goal. Finally, we may deduce that the party which contributes most to the realization of this goal is best suited to posses authorship of AI generated works.
-  </p>
-
+<p align="justify">When the pont comes to determine the best author among the three possible parties <b><i>Programmers; Owners</i></b> (large companies and financial investors in the AI sector); and <b><i>End Users</i></b>, it's always the best practise to consider the overall social benefit of the copyright attribution process. All the above three parties are resonable one for claiming the copyright of AI generated works. In which case the society would be benefitted the most i.e.,would society benefit most if copyright is assigned to the AI programmer, the investors responsible for funding the development of the AI, or the potentially millions of end users of AI programs. For examining this, each party's contribution shoul be evalauted and then to be finalized ehich party should is suited to posses authorship for AI works 
+</p>  
+  
+  
+  
 ### Some prominent challenges of AI:
 * The ethical use of AI.
 * Legal amenability regarding AI and the data that fuels AI.
