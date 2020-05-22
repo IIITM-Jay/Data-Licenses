@@ -2,7 +2,7 @@
 
 ## Artificial Intelligence and Licenses
 <p align="justify">
-  The main motive to include this section uder <i>Data Licenses</i> is not to discuss about the most trending topic as so called <b><i>"Artificial Intelligence"</i></b> and its growing importance in our day-to-day life but, to develop awareness among the readers regarding its authorships and its related concerns with respect to <b>"Data Protection"</b>, whenever anybody wants to make a move in this vast field of AI. </br>
+  The main motive to include this section uder <i>Data Licenses</i> is not to discuss about the most trending topic as so called <b><i>"Artificial Intelligence"</i></b> and its growing importance in our day-to-day life but, to develop awareness among the readers regarding its authorships and its related concerns with respect to <b>"Data Protection"</b>,and moreover it also dicusses how you can protect your data through various means as <i>Licenses,Acts,Regulations...and many more</i> whether you are a developer or the end user,  whenever anybody wants to make a move in this vast field of AI. </br>
   It's very important to know our readers that the base of this field is nevertheless the <b>"Data"</b>, and hence its a matter of concern to protect the data it includes via <i>Authorships, Settlements and Mutual Agreements</i>. 
   </p>
   
