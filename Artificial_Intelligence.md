@@ -5,7 +5,7 @@
   </p>
   
 ### AI Branches and Data Protection
-<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/branches.png" width="50%" align="right" hspace="20" vspace="20">
+<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/branches.png" width="55%" align="right" hspace="20" vspace="20">
 <p align="justify">
   As AI has advanced too much, its increasing significance in the branches as depicted on the right side too has some major threats that needs to be taken careof:
   <ul>
