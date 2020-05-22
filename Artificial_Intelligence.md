@@ -19,7 +19,8 @@ It would be unfair to judge the originality of work in the field of <b>"Ariticia
   There are two parties which claims for an authorship , one who is the <b>"Real Developer"</b> and others are the <b>"Owners"</b> i.e., who provides the financial support for AI devices and machines to work properly.
   </p>
 * <p align="justify">
-  <b>The World of Vendors and Users:</b>Generally, immense and considerable volumes of high-quality data for training are required in order to develop highly rigorous, authentic and competitive AI-based software. The  data  required  for development are handed-over to a Vendor by a User. In some cases, the data provided to a Vendor by a User is economically valuable or confidential data that is a source of a corporation’s competitive edge, such as when the data is acquired by the User through enormous commitment of labor and expense or when that data is client data, production management data, or data embodying <i>"know-how"</i>. Accordingly, aligning the needs of Users with respect to their data and the needs of Vendors with respect to making use of deliverables is  a problem.  
+  <b>The World of Vendors and Users:</b>Generally, immense and considerable volumes of high-quality data for training are required in order to develop highly rigorous, authentic and competitive AI-based software. The  data  required  for development are handed-over to a Vendor by a User. In some cases, the data provided to a Vendor by a User is economically valuable or confidential data that is a source of a corporation’s competitive edge, such as when the data is acquired by the User through enormous commitment of labor and expense or when that data is client data, production management data, or data embodying <i>"know-how"</i>. Accordingly, aligning the needs of Users with respect to their data and the needs of Vendors with respect to making use of deliverables is  a problem. 
+  </p>
   
 ### Solutions:
  * <p align="justify"> CC licenses solves much of the issues with copyrights on AI, but not actually fits with the concerns, as there are many issues which are not still addresed. Get more clarifications <a href="https://creativecommons.org/faq/#artificial-intelligence-and-cc-licenses">here</a>.
@@ -33,6 +34,7 @@ It would be unfair to judge the originality of work in the field of <b>"Ariticia
 
 * <p align="justify"> Ai technology requires both the <i>Software</i> as well as <i>Data Licenses</i>, and hence there must be a balance between <b>"Reusability"</b> along with the <b>"Protection"</b> of the data included in the trending filed of AI and ML.
   </p>
-  - [ ] 
+  
+  - [ ] you have to get selected 
   
   
