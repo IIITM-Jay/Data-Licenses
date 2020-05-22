@@ -3,7 +3,6 @@
   The main motive to include this section uder <i>Data Licenses</i> is not to discuss about the most trending topic as so called <b><i>"Artificial Intelligence"</i></b> and its growing importance in our day-to-day life but, to develop awareness among the readers regarding its authorships and its related concerns with respect to <b>"Data Protection"</b>, whenever anybody wants to make a move in this vast field of AI. </br>
   It's very important to know our readers that the base of this field is nevertheless the <b>"Data"</b>, and hence its a matter of concern to protect the data it includes via <i>Authorships, Settlements and Mutual Agreements</i>. 
   </p>
- It would be unfair to judge the originality of work in the field of <b>"Ariticial Intelligence (AI)"</b>, as its algorithms differ to a large extent in the depth and breadth of input which is vitally consists of random snippets composed of thousands and millions of works required to produce articulate and cogent outputs.
 ### AI and Authorship
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/AI.png" width="40%" align="left" hspace="20" vspace="20">
 
