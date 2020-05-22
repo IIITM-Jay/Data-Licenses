@@ -15,12 +15,8 @@
     <li><b>Clinical AI:</b></i><p align="justify"> We all know that data related to pateint's health is needed to be feed in the AI machines, so as to have AI algorithms, the better beneficial impact to the patients to whom they are applied and resulting knowledge should lead to measurable utility for the patient and outweigh associated risks or
 potential harms. But, the conerns is that <b><i>there must be some regulations regarding patient privacy and their confidential data for sharing</i></b> whenever AI is used for health care purposes. We all know that data related to pateint's health is needed to be feed in the AI machines, so as to have AI algorithms, the better beneficial impact to the patients to whom they are applied and resulting knowledge should lead to measurable utility for the patient and outweigh associated risks or
   </p>
-  <p text-align="left">
-    This text is left aligned
-  </p>
-    <p text-align="right">
-        This text is right aligned
-    </p>
+| Tables        | Are           | Cool  |
+| col 3 is      | right-aligned | $1600 |
 
 
 ### AI and Authorship
