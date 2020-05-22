@@ -4,7 +4,7 @@ It would be unfair to judge the originality of work in the field of <b>"Ariticia
   </p>
 
 ### AI and Authorship
-<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/AI.png" width="30%" align="left" hspace="20" vspace="20">
+<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/AI.png" width="40%" align="left" hspace="20" vspace="20">
 
 
 ### Some prominent challenges of AI:
