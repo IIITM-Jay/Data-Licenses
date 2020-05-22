@@ -17,10 +17,8 @@ potential harms. But, the conerns is that <b><i>there must be some regulations r
   </ul>
   </p>
   
-| Tables        | Are           |
-|               |               | 
-| col 3 is      | right-aligned | 
-
+<div style="text-align: right"> your-text-here </div>
+<div style="text-align: left"> your-text-here </div>
   
 ### AI and Authorship
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/AI.png" width="40%" align="left" hspace="20" vspace="20">
