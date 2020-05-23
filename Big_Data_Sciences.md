@@ -16,5 +16,12 @@ From our previous discussions it's seems that nearly everything depends fully or
   ## Issue: Clash Between TDM and Copyright Materials :warning:
   <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/D.png" width="51%" align="left" hspace="20" vspace="20">
  <p align="justify">
-    By looking on the left side pannel, it's clear that you must take enough precautions while working with TDM. You must think hundred times of all the questions as potraited before aheading any step and working on others' materials. The main goal behind TDM should be the societal benefit atmost, considering the facts of Non-Profit Educational use and transformative (e.g., if results not public available). It must be of the nature of factual based, maintaing the copyimg amount to smaller extent and not the central amount, proportionate for purpose. In any case it should not be used  for commercial means. It should be ensured hundred times that you must not exceed beyond the scope of license, otherwise it might be the case of infringement acts. It is not the always case that the publiher will have the possibility of udertaking TDM activities to their contents but, yes might be some cases that allows to do so. If the content being copied is on the temporary basis, then in such cases permission would not be required from the stakeholders.
+    By looking on the left side pannel, it's clear that you must take enough precautions while working with TDM. You must think hundred times of all the questions as potraited before aheading any step and working on others' materials. The main goal behind TDM should be the societal benefit atmost, considering the facts of Non-Profit Educational use and transformative (e.g., if results not public available). It must be of the nature of factual based, maintaing the copyimg amount to smaller extent and not the central amount, proportionate for purpose. In any case it should not be used  for commercial means. It should be ensured hundred times that you must not exceed beyond the scope of license, otherwise it might be the case of infringement acts. It is not the always case that the publiher will have the possibility of udertaking TDM activities to their contents but, yes might be some cases that allows to do so.
+  </p>
+  ## Limitations to legal Exceptons
+  <p align="justify">
+  In our previous discussions, we got to know that some publishers may allow TDM activities, but still there are certain limitations on the legal exceptions:
+  <ul>
+    <li></li>
+  </ul>
   </p>
