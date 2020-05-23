@@ -11,4 +11,8 @@ From our previous discussions it's seems that nearly everything depends fully or
   </p>
   
   ## Issue: Clash Between TDM and Copyright Materials :warning:
+  <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/D.png" width="40%" align="left" hspace="20" vspace="20">
+ <p align="justify">
+    <b>Financial Services:</b><p align="justify"> Although knowing the significance of AI in the financial services, as dicussed in the left side, it always been a fraud prone area when financial related data are being stolen by some wrong persons and misused by them. It's even more challenging to train AI algorithms to decide what is fraud and what-not, and which too needs a large volume of data. Firm or industry therefore thinks for nearly thousand times and checks for any loop hole before implementing AI for financial purposes.
   
+  </p>
