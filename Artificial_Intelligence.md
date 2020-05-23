@@ -48,7 +48,7 @@ potential harms. But, the conern is that <b><i>there must be some regulations re
   </p>
   
   
-* <p align="justify"> There are various acts associated with the health care AI and Clinical AI systems such as <b>Health Insurance Portability and Accountability Act(HIPAA),</b> which contains certain rules and regulations to create privacy and security regarding certain health information and rules like <b>Federal Trade Commision (FTC) Health Breach Notifiction Rule</b> which requires certain businesses to provide notifications to consumers after a breach of personal
+* <p align="justify"> There are various acts associated with the health care AI and Clinical AI systems such as <b>Health Insurance Portability and Accountability Act (HIPAA),</b> which contains certain rules and regulations to create privacy and security regarding certain health information and many more  rules like <b>Federal Trade Commision (FTC) Health Breach Notifiction Rule</b> which requires certain businesses to provide notifications to consumers after a breach of personal
 health record information, including information that may be collected to train, validate, date, or use
 health care AI systems.
   </p>
