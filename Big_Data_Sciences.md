@@ -28,3 +28,7 @@ From our previous discussions it's seems that nearly everything depends fully or
   
   
   ## Licensing your own mterial
+  <p align="justify">
+  CC licenses had extended their hands even to data, datasets and databases. It discusses how you can apply any <a href="https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-databases">License to your Data</a> by keeping in mind all the necessary facts which is required either when you are using <i>other's contents or licensing your own material</i>. Whenever you are applyinglicense to your work which includes incorporating of the contents of others' you must need to check that you have done fair use of that content. Moreover, it's to be noted that CC licenses do not work for <a href="https://creativecommons.org/faq/#can-i-offer-material-under-a-cc-license-that-has-my-trademark-on-it-without-also-licensing-or-affecting-rights-in-the-trademark">trademark and logo</a> as they limits the CC licenses for sharing in most cases. 
+  </p>
+ 
