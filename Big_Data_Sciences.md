@@ -27,8 +27,13 @@ From our previous discussions it's seems that nearly everything depends fully or
  ## Then, how to :thinking: use licensed data? :confused:
  <p align="justify">
   <ul>
-    <li>Some of the publishers who are aware of the data mining process, i.e.,who are the actual right holders are explicitly addressing the TDM in their licenses. You must follow all the rules and regulation which have been put forward by the right holders as well as the laws binded by the license prior to proceedings for TDM on their content.</li>
-      </ul>
+    <li> Some of the publishers who are aware of the data mining process, i.e.,who are the actual right holders are explicitly addressing the TDM in their licenses. You must follow all the rules and regulation which have been put forward by the right holders as well as the laws binded by the license prior to proceedings for TDM on their content.</li>
+   <li> <a href="https://royalsociety.org/journals/ethics-policies/data-sharing-mining/">The Royal Sciety Open Data policy</a> is the best platform for <b>Data Mining</b> and their <b><i>TDM activities</i></b>. It explicitly states that <b><i>“We support the stance that the right to read is the right to mine.”</i></b> </li>
+    <li> In some cases the language or the wordings of the license is not clear. In such a case, it's very important to clarify those by contacting the Licensor or the actual right holder of its contents.</li>
+    <li> You must examine whether the reproducibility works will going to affect the original one in any medium. You must take care of all the restrictions imposed on reproduction of any fragments or the sections by the licensor. </li>
+    <li> Some right holders even apply technical protective measures to prevent the access of non-authorised users and restricts the systems and servers from accessing the large contents of their data. </li>
+    
+   </ul>  
  </p>
   
   
