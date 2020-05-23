@@ -9,7 +9,7 @@ From our previous discussions it's seems that nearly everything depends fully or
   TDM is nothing but a process to collect and gather data and contents from various resources and then analyzing them for the purpose of searching, finding patterns, discovering relationships, semantic analysis and learning how content relates to ideas and needs in a way that they can benefit in the field of reaserach and education. It's main significance is found in the new trending area of <b><i>Natural Language Processing</i></b>.</br>
   From the above definition, it's clear that this process includes extraction and usage of datas and contents form other resources hence it's to be taken careof about any infrigement issues and how to use the contents safely of others' licensed material and that's the main intention behind this subsection to include in the chapter <i>"License"</i> under the subchapter <b><i>"Data Licensing"</i></b>. The three basic steps necessary in this process includes:
   </p>
-  <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/data.png" width="50%" align="centre">
+  <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/data.png" width="70%" align="center">
   
   
   
