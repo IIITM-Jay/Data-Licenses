@@ -25,3 +25,7 @@ public) of the whole or of a substantial part of a database, as long as the prod
 investment to obtain, verify and/or present the data collected. This is irrespective of the individual
 copyright protection of the underlying data. Such a right may exist for both inputs or outputs.
 </p>
+
+* <p align="justify">
+  <b>The World of Vendors and Users:</b>Generally, immense and considerable volumes of high-quality data for training are required in order to develop highly rigorous, authentic and competitive AI-based software. The  data  required  for development are handed-over to a Vendor by a User. In some cases, the data provided to a Vendor by a User is economically valuable or confidential data that is a source of a corporation’s competitive edge, such as when the data is acquired by the User through enormous commitment of labor and expense or when that data is client data, production management data, or data embodying <i>"know-how"</i>. Accordingly, aligning the needs of Users with respect to their data and the needs of Vendors with respect to making use of deliverables is  a problem. 
+  </p>
