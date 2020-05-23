@@ -24,7 +24,7 @@ From our previous discussions it's seems that nearly everything depends fully or
     By looking on the left side pannel, it's clear that you must take enough precautions while working with TDM. You must think hundred times of all the questions as potraited before aheading any step and working on others' materials. The main goal behind TDM should be the societal benefit atmost, considering the facts of Non-Profit Educational use and transformative (e.g., if results not public available). It must be of the nature of factual based, maintaing the copyimg amount to smaller extent and not the central amount, proportionate for purpose. In any case it should not be used  for commercial means. It should be ensured hundred times that you must not exceed beyond the scope of license, otherwise it might be the case of infringement acts. It is not the always case that the publiher will have the possibility of udertaking TDM activities to their contents but, yes might be some cases that allows to do so.
   </p>
  
- ## Then, how to use licnsed data? :confused:
+ ## Then, how to use licensed data? :confused:
   
   
   ## Licensing your own mterial
