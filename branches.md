@@ -153,6 +153,7 @@ For the purpose of creating License, go through the following table that clearly
 <td>:x:</td>
 </tr>
 </table>
+
 For help, try the [Creative Commons License Chooser](https://creativecommons.org/choose/#).
 As a ***Licensor*** , you should [think twice carefully before applying any License to your documents](https://creativecommons.org/faq/#what-things-should-i-think-about-before-i-apply-a-creative-commons-license).
 
