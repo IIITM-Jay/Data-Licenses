@@ -141,6 +141,7 @@ For help, try the [Creative Commons License Chooser](https://creativecommons.org
 :warning: As a ***Licensor*** , you should [think twice carefully before applying any License to your documents](https://creativecommons.org/faq/#what-things-should-i-think-about-before-i-apply-a-creative-commons-license).
 
 ## All Rights Reserved
+<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/scenarios.png" alt="" height=45 width=50></img>
 
 ## License Adaptation
 As a ***"Licensee"*** ,before using the Licensed material you should be clear about the mentioned licenses uder the document.
