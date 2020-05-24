@@ -133,6 +133,7 @@ For the purpose of creating License, go through the following table <sup>1</sup>
 <td>:x:</td>
 </tr>
 </table>
+
 <sup>1</sup> All the symbols and icons used are taken from [Creative common website](https://creativecommons.org).
 
 
