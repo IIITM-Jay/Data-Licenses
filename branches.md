@@ -70,9 +70,11 @@ For the purpose of creating License, go through the following table that clearly
     
 </table>
 
-```diff
 
-:warning: Some few points to be kept in mind while applying the above License:
+
+:warning: ```diff
+
+  Some few points to be kept in mind while applying the above License:
 - Creative Commons Licenses are not recommended to be used for Software. 
 - Make doubly ensure that you own the material you want to license
 - CC licenses  are not revocable. 
