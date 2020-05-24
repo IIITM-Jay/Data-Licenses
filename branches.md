@@ -22,39 +22,39 @@ For the purpose of creating License, go through the following table that clearly
     </tr>
     <tr>
         <td><img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" alt="" height=45 width=50></img>
-        <td>No Derivative Works (ND) </td>
-        <td>Licensees may copy, distribute, display and perform only verbatim copies of the work, not derivative works and remixes based on it </td>
+        <td>Share-alike (SA) </td>
+        <td>Adaptations must be shared under the same terms </td>
     </tr>
     <tr>
         <td><img src="https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png" alt="" height=45 width=50></img>
-        <td>Share-alike (SA) </td>
-        <td>Licensees can remix, transform or re-build but can only distribute the changes under the same lincense as original. </td>
+        <td>Non-commercial (NC)</td>
+        <td>Only noncommercial uses of the work are permitted </td>
     </tr>
      <tr>
         <td><img src="https://mirrors.creativecommons.org/presskit/icons/nd.xlarge.png" alt="" height=45 width=50></img>
         <td>No Derivative Works (ND) </td>
-        <td>Licensees may copy, distribute, display and perform only verbatim copies of the work, not derivative works and remixes based on it </td>
+        <td></td>
     </tr>
     <tr>
         <td><img src="https://mirrors.creativecommons.org/presskit/icons/pd.xlarge.png" alt="" height=45 width=50></img>
         <td>No Derivative Works (ND) </td>
-        <td>Licensees may copy, distribute, display and perform only verbatim copies of the work, not derivative works and remixes based on it </td>
+        <td>No derivatives or adaptations of the work are permitted </td>
     </tr>
     <tr>
         <td><img src="https://mirrors.creativecommons.org/presskit/icons/zero.xlarge.png" alt="" height=45 width=50></img>
-        <td>No Derivative Works (ND) </td>
-        <td>Licensees may copy, distribute, display and perform only verbatim copies of the work, not derivative works and remixes based on it </td>
+        <td> </td>
+        <td></td>
     </tr>
     
    <tr>
         <td><img src="https://mirrors.creativecommons.org/presskit/icons/share.xlarge.png" alt="" height=45 width=50></img>
-        <td>No Derivative Works (ND) </td>
-        <td>Licensees may copy, distribute, display and perform only verbatim copies of the work, not derivative works and remixes based on it </td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td><img src="https://mirrors.creativecommons.org/presskit/icons/remix.xlarge.png" alt="" height=45 width=50></img>
-        <td>No Derivative Works (ND) </td>
-        <td>Licensees may copy, distribute, display and perform only verbatim copies of the work, not derivative works and remixes based on it </td>
+        <td></td>
+        <td></td>
     </tr>
     
     
