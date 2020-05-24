@@ -21,25 +21,16 @@ For the purpose of creating License, go through the following table that clearly
         <td>Credit must be given to the creator</td>
     </tr>
     <tr>
-        <td><img src="https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png" alt="" height=45 width=50></img>
-        <td>Share-alike (SA) </td>
-        <td>Licensees can remix, transform or re-build but can only distribute the changes under the same lincense as original. </td>
-    </tr>
-    <tr>
-        <td><img src="https://mirrors.creativecommons.org/presskit/icons/nc-eu.xlarge.png" alt="" height=45 width=50></img>
-        <td>Non-commercial (NC) </td>
-        <td> Licensees are free to copy,distribute and display the content but with a restriction that they will not use them for commercial purpose.</td>
-    </tr>
-    <tr>
-        <td><img src="https://mirrors.creativecommons.org/presskit/icons/nc-jp.xlarge.png" alt="" height=45 width=50></img>
-        <td>No Derivative Works (ND) </td>
-        <td>Licensees may copy, distribute, display and perform only verbatim copies of the work, not derivative works and remixes based on it </td>
-    </tr>
-    <tr>
         <td><img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" alt="" height=45 width=50></img>
         <td>No Derivative Works (ND) </td>
         <td>Licensees may copy, distribute, display and perform only verbatim copies of the work, not derivative works and remixes based on it </td>
     </tr>
+    <tr>
+        <td><img src="https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png" alt="" height=45 width=50></img>
+        <td>Share-alike (SA) </td>
+        <td>Licensees can remix, transform or re-build but can only distribute the changes under the same lincense as original. </td>
+    </tr>
+    
      <tr>
         <td><img src="https://mirrors.creativecommons.org/presskit/icons/nd.xlarge.png" alt="" height=45 width=50></img>
         <td>No Derivative Works (ND) </td>
