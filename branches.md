@@ -33,31 +33,19 @@ For the purpose of creating License, go through the following table that clearly
      <tr>
         <td><img src="https://mirrors.creativecommons.org/presskit/icons/nd.xlarge.png" alt="" height=45 width=50></img>
         <td>No Derivative Works (ND) </td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><img src="https://mirrors.creativecommons.org/presskit/icons/pd.xlarge.png" alt="" height=45 width=50></img>
-        <td>No Derivative Works (ND) </td>
         <td>No derivatives or adaptations of the work are permitted </td>
     </tr>
     <tr>
         <td><img src="https://mirrors.creativecommons.org/presskit/icons/zero.xlarge.png" alt="" height=45 width=50></img>
-        <td> </td>
-        <td></td>
-    </tr>
-    
-   <tr>
-        <td><img src="https://mirrors.creativecommons.org/presskit/icons/share.xlarge.png" alt="" height=45 width=50></img>
-        <td></td>
-        <td></td>
+        <td>CC0</td>
+        <td>“No Rights Reserved”-It gives then creators a way to waive all their copyright and related rights in their works to the fullest extent allowed by law.</td>
     </tr>
     <tr>
-        <td><img src="https://mirrors.creativecommons.org/presskit/icons/remix.xlarge.png" alt="" height=45 width=50></img>
-        <td></td>
-        <td></td>
-    </tr>
-    
-    
+        <td><img src="https://mirrors.creativecommons.org/presskit/icons/pd.xlarge.png" alt="" height=45 width=50></img>
+        <td>Public Domain Mark</td>
+        <td> This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.
+</td>
+</tr>
 </table>
 
 
