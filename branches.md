@@ -73,12 +73,34 @@ For the purpose of creating License, go through the following table that clearly
 ```diff
 
 ! Some few points to be kept in mind while applying the above License:
-- Creative Commons Licenses are not recommended to be used for Soffware. 
+- Creative Commons Licenses are not recommended to be used for Software. 
 - Make doubly ensure that you own the material you want to license
 - CC licenses  are not revocable. 
 - CC do not license trademark or patent rights, or the publicity, personality, and privacy rights.
 - Licensor can't impose restrictions on the work to be used in the format other than the published one.
 ```
+## Seven regularly used licenses
+<table>
+  <tr>
+    <th>Icon</th>
+    <th>Description</th>
+      <th>Attribution required</th>
+     <th>Permits remix culture</th>
+    <th>Allows commercial use</th>
+      <th>Free Culture works</th>
+        <th>OKF 'open definition'</th>
+  </tr>
+  <tr>
+    <td><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" alt="" height=45 width=50></img></td>
+<td>CC0</td>
+<td>:x:</td>
+<td>:heavy_check_mark:</td>
+<td>:heavy_check_mark:</td>
+<td>:heavy_check_mark:</td>
+<td>:heavy_check_mark:</td>
+</tr>
+</table>
+
 As a ***Licensor*** , you should [think twice carefully before applying any License to your documents](https://creativecommons.org/faq/#what-things-should-i-think-about-before-i-apply-a-creative-commons-license).
 
 ## License Adaptation
