@@ -138,7 +138,7 @@ For the purpose of creating License, go through the following table <sup>1</sup>
 
 
 For help, try the [Creative Commons License Chooser](https://creativecommons.org/choose/#).</br>
-As a ***Licensor*** , you should [think twice carefully before applying any License to your documents](https://creativecommons.org/faq/#what-things-should-i-think-about-before-i-apply-a-creative-commons-license).
+:danger: As a ***Licensor*** , you should [think twice carefully before applying any License to your documents](https://creativecommons.org/faq/#what-things-should-i-think-about-before-i-apply-a-creative-commons-license).
 
 ## All Rights Reserved
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/index.png" alt="" height=45 width=50 align="left" hspace="20" vspace="20"></img>
