@@ -16,11 +16,7 @@ For the purpose of creating License, go through the following table that clearly
         <td>Copyright</td>
         <td>"All Rights Reserved" which lets the user to seek permission from the author prior using the content of the material.  </td>
     </tr>
-     <tr>
-        <td><img src="index.png" alt="" height=45 width=50></img>
-        <td>Copyright</td>
-        <td>"All Rights Reserved" which lets the user to seek permission from the author prior using the content of the material.  </td>
-    </tr>
+    
     <tr>
         <td><img src="1.png" alt="" height=45 width=50></img>
         <td>Attribution (BY) </td>
@@ -42,6 +38,11 @@ For the purpose of creating License, go through the following table that clearly
         <td>Licensees may copy, distribute, display and perform only verbatim copies of the work, not derivative works and remixes based on it </td>
     </tr>
   
+  <tr>
+        <td><img src="index.png" alt="" height=45 width=50></img>
+        <td>Copyright</td>
+        <td>"All Rights Reserved" which lets the user to seek permission from the author prior using the content of the material.  </td>
+    </tr>
 </table>
 
 ```diff
