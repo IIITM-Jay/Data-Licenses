@@ -30,3 +30,4 @@
     In addition to the above  licenses, it too supports <a href="https://opencovidpledge.org/licenses/intel-open-covid-license-v1-0/">Intel Open COVID License</a>. The main motive behind Open COVID Pledge is to call on organiztions around the world and maximize the copyrighted flexibilities in order to fight against the COVID-19 pandemic. 
 We know how much important is collaborative works in the field of reproducibility, but the path or the medium is somewhat the open access to the data included in copyrighted material but sometimes its important to protect your data too as seen in our previous discussions.
   </p>
+ ##### Hence, everyone should think :thinking: in a way "Data: From Preparation to Protection"
