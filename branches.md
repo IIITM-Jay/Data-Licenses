@@ -91,7 +91,7 @@ For the purpose of creating License, go through the following table that clearly
         <th>OKF 'open definition'</th>
   </tr>
   <tr>
-    <td><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" alt="" height=45 width=50></img></td>
+    <td><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" alt="" height=45 width=80></img></td>
 <td>CC0</td>
 <td>:x:</td>
 <td>:heavy_check_mark:</td>
