@@ -1,7 +1,7 @@
 # License Creation, Adaptation and Termination
 ## License Creation
 After getting aware of the scenarios and situations on where to use the licenses as discussed in the previous section's [**Flow Chart**](https://github.com/IIITM-Jay/Data-Licenses/blob/master/scenarios.png), now it's time to create licenses for your own documentation and the data that it contains.
-For the purpose of creating License, go through the following table <sup>*</sup> that clearly describes the icons to be used for  protecting your content:
+For the purpose of creating License, go through the following table <sup>1</sup> that clearly describes the icons to be used for  protecting your content:
 
 
 <table>
@@ -47,7 +47,8 @@ For the purpose of creating License, go through the following table <sup>*</sup>
 </td>
 </tr>
 </table>
-<sup>*</sup> All the symbols and icons used are taken from [Creative common website](https://creativecommons.org).
+
+<sup>1</sup> All the symbols and icons used are taken from [Creative common website](https://creativecommons.org).
 
 
 :warning: Some few points to be kept in mind while applying the above License:
