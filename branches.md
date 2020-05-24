@@ -99,9 +99,65 @@ For the purpose of creating License, go through the following table that clearly
 <td>:heavy_check_mark:</td>
 <td>:heavy_check_mark:</td>
 </tr>
+<tr>
+    <td><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="" height=35 width=200></img></td>
+<td>BY</td>
+<td>:heavy_check_mark:</td>
+<td>:heavy_check_mark:</td>
+<td>:heavy_check_mark:</td>
+<td>:heavy_check_mark:</td>
+<td>:heavy_check_mark:</td>
+</tr>
+<tr>
+<td><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="" height=35 width=200></img></td>
+<td>BY-SA</td>
+<td>:heavy_check_mark:</td>
+<td>:heavy_check_mark:</td>
+<td>:heavy_check_mark:</td>
+<td>:heavy_check_mark:</td>
+<td>:heavy_check_mark:</td>
+</tr>
+<tr>
+<td><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" alt="" height=35 width=200></img></td>
+<td>BY-SA</td>
+<td>:heavy_check_mark:</td>
+<td>:heavy_check_mark:</td>
+<td>:x:</td>
+<td>:x:</td>
+<td>:x:</td>
+</tr>
+<tr>
+<td><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="" height=35 width=200></img></td>
+<td>BY-SA</td>
+<td>:heavy_check_mark:</td>
+<td>:heavy_check_mark:</td>
+<td>:x:</td>
+<td>:x:</td>
+<td>:x:</td>
+</tr>
+<tr>
+<td><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png" alt="" height=35 width=200></img></td>
+<td>BY-SA</td>
+<td>:heavy_check_mark:</td>
+<td>:x:</td>
+<td>:heavy_check_mark:</td>
+<td>:x:</td>
+<td>:x:</td>
+</tr>
+<tr>
+<td><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" alt="" height=35 width=200></img></td>
+<td>BY-SA</td>
+<td>:heavy_check_mark:</td>
+<td>:x:</td>
+<td>:x:</td>
+<td>:x:</td>
+<td>:x:</td>
+</tr>
 </table>
 
 As a ***Licensor*** , you should [think twice carefully before applying any License to your documents](https://creativecommons.org/faq/#what-things-should-i-think-about-before-i-apply-a-creative-commons-license).
+
+## All Rights Reserved
 
 ## License Adaptation
 As a ***"Licensee"*** ,before using the Licensed material you should be clear about the mentioned licenses uder the document.
