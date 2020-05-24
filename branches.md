@@ -72,7 +72,7 @@ For the purpose of creating License, go through the following table that clearly
 
 ```diff
 
-! Some few points to be kept in mind while applying the above License:
+:warning: Some few points to be kept in mind while applying the above License:
 - Creative Commons Licenses are not recommended to be used for Software. 
 - Make doubly ensure that you own the material you want to license
 - CC licenses  are not revocable. 
@@ -119,7 +119,7 @@ For the purpose of creating License, go through the following table that clearly
 </tr>
 <tr>
 <td><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" alt="" height=35 width=200></img></td>
-<td>BY-SA</td>
+<td>BY-NC</td>
 <td>:heavy_check_mark:</td>
 <td>:heavy_check_mark:</td>
 <td>:x:</td>
@@ -128,7 +128,7 @@ For the purpose of creating License, go through the following table that clearly
 </tr>
 <tr>
 <td><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="" height=35 width=200></img></td>
-<td>BY-SA</td>
+<td>BY-NC-SA</td>
 <td>:heavy_check_mark:</td>
 <td>:heavy_check_mark:</td>
 <td>:x:</td>
@@ -137,7 +137,7 @@ For the purpose of creating License, go through the following table that clearly
 </tr>
 <tr>
 <td><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png" alt="" height=35 width=200></img></td>
-<td>BY-SA</td>
+<td>BY-ND</td>
 <td>:heavy_check_mark:</td>
 <td>:x:</td>
 <td>:heavy_check_mark:</td>
@@ -146,7 +146,7 @@ For the purpose of creating License, go through the following table that clearly
 </tr>
 <tr>
 <td><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" alt="" height=35 width=200></img></td>
-<td>BY-SA</td>
+<td>BY-NC-ND</td>
 <td>:heavy_check_mark:</td>
 <td>:x:</td>
 <td>:x:</td>
