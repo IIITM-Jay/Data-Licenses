@@ -11,6 +11,11 @@ For the purpose of creating License, go through the following table that clearly
     <th>Right</th>
       <th>Description</th>
   </tr>
+  <tr>
+        <td><img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" alt="" height=45 width=50></img>
+        <td>Copyright</td>
+        <td>"All Rights Reserved" which lets the user to seek permission from the author prior using the content of the material.  </td>
+    </tr>
      <tr>
         <td><img src="index.png" alt="" height=45 width=50></img>
         <td>Copyright</td>
