@@ -11,10 +11,22 @@
 
 * <p align="justify">All the health organizaations to support open access to encourage societal benefit atmost. </p>
 
-## WHO and it's Data Licenses and Policies:
+## WHO and its Data Licenses and Policies
 <p align="justify">
-  <a href="https://www.who.int/about/who-we-are/publishing-policies/copyright"> WHO </a> is working hand-in-hand to spread awareness among the public during the widespread of the novel corona virus. Meanwhile it also helps researchers by supporting open access to its data and content. It inspires the researchers and various scientific and educational institutes to collect,use and share the data it publishes on <a href="www.who.init">WHO Website</a> to facilitate reproducibility. <b>"Data"</b> that it publishes are in the form of <b>"Datesets and Databases"</b> on which derived works have to meet certain <a href="https://www.who.int/about/who-we-are/publishing-policies/data-policy/terms-and-conditions">terms and conditions</a> before get to work on it. It too permits the <a href="https://www.who.int/about/who-we-are/publishing-policies/data-policy/text-for-inclusion-in-data-collection-forms">Data Provider</a> to share and publish information to WHO.
+  <a href="https://www.who.int/about/who-we-are/publishing-policies/copyright"> World Helath Organization (WHO) </a> is working hand-in-hand to spread awareness among the public during the widespread of the novel corona virus. Meanwhile it also helps researchers by supporting open access to its data and content. It inspires the researchers and various scientific and educational institutes to collect,use and share the data it publishes on <a href="www.who.init">WHO Website</a> to facilitate reproducibility. <b>"Data"</b> that it publishes are in the form of <b>"Datesets and Databases"</b> on which derived works have to meet certain <a href="https://www.who.int/about/who-we-are/publishing-policies/data-policy/terms-and-conditions">terms and conditions</a> before get to work on it. It too permits the <a href="https://www.who.int/about/who-we-are/publishing-policies/data-policy/text-for-inclusion-in-data-collection-forms">Data Provider</a> to share and publish information to WHO.
   </p>
   <p align="justify"> 
 :warning: In order to reproduce, reprint and tranlate the WHO copyrighted material, WHO encourages you to <a href="https://www.who.int/about/who-we-are/publishing-policies/permissions">fill the form</a> for seeking required permisssion.
+  </p>
+  
+  ## CC and its Open COVID pledge
+  <p align="justify">
+  The data license provider, Creative Commons has now given importance to <b>"Open Access"</b>. It elucidates why the unhindered access to scientific and educational research is so crucial during the ongoing crisis. It elaborates in its <a href="https://opencovidpledge.org/">Open COVID pledge</a> , the need of eradicating the obstacles to sharing IP in the fight against the COVID-19. For the purpose of halting COVID-19 Pandemic, it has initiated three ctegories of <a href="https://opencovidpledge.org/licenses/licenses">licenses</a>:
+  <ul>
+    <li> <a href="https://opencovidpledge.org/licenses/v1-0/">OCL-PC v1.0</a> </li>
+    <li> <a href="https://opencovidpledge.org/licenses/v1-1-ocl-p/">OCL-P v1.1</a></li>
+    <li> <a href="https://opencovidpledge.org/licenses/v1-1-ocl-pc/">OCL-PC v1.1</a></li>
+    </ul>
+    In addition to the above  licenses, it too supports <a href="https://opencovidpledge.org/licenses/intel-open-covid-license-v1-0/">Intel Open COVID License</a>
+
   </p>
