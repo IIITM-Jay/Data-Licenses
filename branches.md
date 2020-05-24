@@ -58,7 +58,7 @@ For the purpose of creating License, go through the following table <sup>1</sup>
 - CC do not license trademark or patent rights, or the publicity, personality, and privacy rights.
 - Licensor can't impose restrictions on the work to be used in the format other than the published one.
 
-## Seven regularly used licenses
+## Regularly used Licenses<sup>2</sup>
 <table>
   <tr>
     <th>Icon</th>
@@ -133,9 +133,11 @@ For the purpose of creating License, go through the following table <sup>1</sup>
 <td>:x:</td>
 </tr>
 </table>
+<sup>1</sup> All the symbols and icons used are taken from [Creative common website](https://creativecommons.org).
+
 
 For help, try the [Creative Commons License Chooser](https://creativecommons.org/choose/#).</br>
-As a ***Licensor*** , you should [think twice carefully before applying any License to your documents](https://creativecommons.org/faq/#what-things-should-i-think-about-before-i-apply-a-creative-commons-license).
+:warning: As a ***Licensor*** , you should [think twice carefully before applying any License to your documents](https://creativecommons.org/faq/#what-things-should-i-think-about-before-i-apply-a-creative-commons-license).
 
 ## All Rights Reserved
 
