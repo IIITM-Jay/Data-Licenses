@@ -90,7 +90,7 @@ For the purpose of creating License, go through the following table that clearly
         <th>OKF 'open definition'</th>
   </tr>
   <tr>
-    <td><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png" alt="" height=35 width=200></img></td>
+    <td><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" alt="" height=35 width=200></img></td>
 <td>CC0</td>
 <td>:x:</td>
 <td>:heavy_check_mark:</td>
@@ -153,7 +153,7 @@ For the purpose of creating License, go through the following table that clearly
 <td>:x:</td>
 </tr>
 </table>
-
+For help, try the [Creative Commons License Chooser](https://creativecommons.org/choose/#).
 As a ***Licensor*** , you should [think twice carefully before applying any License to your documents](https://creativecommons.org/faq/#what-things-should-i-think-about-before-i-apply-a-creative-commons-license).
 
 ## All Rights Reserved
