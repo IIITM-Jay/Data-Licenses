@@ -30,7 +30,6 @@ For the purpose of creating License, go through the following table that clearly
         <td>Share-alike (SA) </td>
         <td>Licensees can remix, transform or re-build but can only distribute the changes under the same lincense as original. </td>
     </tr>
-    
      <tr>
         <td><img src="https://mirrors.creativecommons.org/presskit/icons/nd.xlarge.png" alt="" height=45 width=50></img>
         <td>No Derivative Works (ND) </td>
