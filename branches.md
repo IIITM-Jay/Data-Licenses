@@ -71,14 +71,13 @@ For the purpose of creating License, go through the following table that clearly
 </table>
 
 
-:warning:
-```diff  Some few points to be kept in mind while applying the above License:
+:warning: Some few points to be kept in mind while applying the above License:
 - Creative Commons Licenses are not recommended to be used for Software. 
 - Make doubly ensure that you own the material you want to license
 - CC licenses  are not revocable. 
 - CC do not license trademark or patent rights, or the publicity, personality, and privacy rights.
 - Licensor can't impose restrictions on the work to be used in the format other than the published one.
-```
+
 ## Seven regularly used licenses
 <table>
   <tr>
