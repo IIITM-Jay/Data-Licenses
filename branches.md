@@ -134,7 +134,7 @@ For the purpose of creating License, go through the following table <sup>1</sup>
 </tr>
 </table>
 
-<sup>1</sup> All the symbols and icons used are taken from [Creative common website](https://creativecommons.org).
+<sup>2</sup> All the symbols and icons used are taken from [Creative common website](https://creativecommons.org).
 
 
 For help, try the [Creative Commons License Chooser](https://creativecommons.org/choose/#).</br>
@@ -143,7 +143,8 @@ For help, try the [Creative Commons License Chooser](https://creativecommons.org
 ## All Rights Reserved
 <img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/index.png" alt="" height=45 width=50 align="left" hspace="20" vspace="20"></img>
 <p align=justify>
-  Indicates the copyright symbol signifying <i>"All Rights Reserved"</i>. The documents containg the coprights symbolizes the user to seek permission from the owner before using it. The symbol constitutes of the owner and the work's first year of publication. A copyright symbol is generally not used for an unpublished work, however when it is used in an unpublished work , in that case the year it includes does not symbolizes the year of publication but the year the author distributes the work in some manner.
+  Indicates the copyright symbol signifying <i>"All Rights Reserved"</i>. The documents containg the coprights symbolizes the user to seek permission from the owner before using it. The symbol constitutes of the owner and the work's first year of publication. A copyright symbol is generally not used for an unpublished work, however when it is used in an unpublished work , in that case the year it includes does not symbolizes the year of publication but the year the author distributes the work in some manner. </br>
+  :warning: All the copyrighted materials need permission from its owner.
   </p>
 
 
