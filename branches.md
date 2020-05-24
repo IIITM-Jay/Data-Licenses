@@ -12,13 +12,13 @@ For the purpose of creating License, go through the following table that clearly
   </tr>
   <tr>
         <td><img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" alt="" height=45 width=50></img>
-        <td>Copyright</td>
-        <td>"All Rights Reserved" which lets the user to seek permission from the author prior using the content of the material.  </td>
+        <td>Creative Commons</td>
+        <td>This indicates that the the document,images,course,music, or arts has a creative common license. </td>
     </tr>
     <tr>
         <td><img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" alt="" height=45 width=50></img>
         <td>Attribution (BY) </td>
-        <td>Licensees may copy and display the content and make derivatives and remix as well but on the condition that they give the appropriate credits to the Licensor as mentioned in their material.</td>
+        <td>Credit must be given to the creator</td>
     </tr>
     <tr>
         <td><img src="https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png" alt="" height=45 width=50></img>
