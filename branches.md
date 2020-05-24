@@ -141,7 +141,10 @@ For help, try the [Creative Commons License Chooser](https://creativecommons.org
 :warning: As a ***Licensor*** , you should [think twice carefully before applying any License to your documents](https://creativecommons.org/faq/#what-things-should-i-think-about-before-i-apply-a-creative-commons-license).
 
 ## All Rights Reserved
-<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/index.png" alt="" height=45 width=50></img>
+<img src="https://github.com/IIITM-Jay/Data-Licenses/blob/master/index.png" alt="" height=45 width=50 align="left" hspace="20" vspace="20"></img>
+<p align=justify>
+  Indicates the copyright symbol signifying <i>"All Rights Reserved"</i>. The documents containg the coprights symbolizes the user to seek permission from the owner before using it. The symbol constitutes of the owner and the work's first year of publication. A copyright symbol is generally not used for an unpublished work, however when it is used in an unpublished work , in that case the year it includes does not symbolizes the year of publication but the year the author distributes the work in some manner.
+  </p>
 
 
 ## License Adaptation
