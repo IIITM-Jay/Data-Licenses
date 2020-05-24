@@ -21,12 +21,12 @@
   
   ## CC and its Open COVID pledge
   <p align="justify">
-  The data license provider, Creative Commons has now given importance to <b>"Open Access"</b>. It elucidates why the unhindered access to scientific and educational research is so crucial during the ongoing crisis. It elaborates in its <a href="https://opencovidpledge.org/">Open COVID pledge</a> , the need of eradicating the obstacles to sharing IP in the fight against the COVID-19. For the purpose of halting COVID-19 Pandemic, it has initiated three ctegories of <a href="https://opencovidpledge.org/licenses/licenses">licenses</a>:
+  The data license provider, Creative Commons has now given importance to <b>"Open Access"</b>. It elucidates why the unhindered access to scientific and educational research is so crucial during the ongoing crisis. It elaborates in its <a href="https://opencovidpledge.org/">Open COVID pledge</a> , the need of eradicating the obstacles to sharing IP in the fight against the COVID-19. For the purpose of halting COVID-19 Pandemic, it has initiated three categories of <a href="https://opencovidpledge.org/licenses/licenses">licenses</a>:
   <ul>
     <li> <a href="https://opencovidpledge.org/licenses/v1-0/">OCL-PC v1.0</a> </li>
     <li> <a href="https://opencovidpledge.org/licenses/v1-1-ocl-p/">OCL-P v1.1</a></li>
     <li> <a href="https://opencovidpledge.org/licenses/v1-1-ocl-pc/">OCL-PC v1.1</a></li>
     </ul>
-    In addition to the above  licenses, it too supports <a href="https://opencovidpledge.org/licenses/intel-open-covid-license-v1-0/">Intel Open COVID License</a>
-
+    In addition to the above  licenses, it too supports <a href="https://opencovidpledge.org/licenses/intel-open-covid-license-v1-0/">Intel Open COVID License</a>. The main motive behind Open COVID Pledge is to call on organiztions around the world and maximize the copyrighted flexibilities in order to fight against the COVID-19 pandemic. 
+We know how much important is collaborative works in the field of reproducibility, but the path or the medium is somewhat the open access to the data included in copyrighted material but sometimes its important to protect your data too as seen in our previous discussions.
   </p>
