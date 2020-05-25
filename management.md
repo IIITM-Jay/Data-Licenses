@@ -1,4 +1,4 @@
-# Prerequisites / recommended skill level
+## Prerequisites / recommended skill level
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
