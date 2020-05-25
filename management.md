@@ -5,11 +5,11 @@ Risk assessment is one of the broader areas of Risk Management which constitutes
 * Risk Analysis
 * Risk Prioritization
 
-as its sub-parts.All the above three classifications are equally important as each one of them depends on each other. 
+as its sub-parts. All the above three classifications are equally important as each one of them depends on each other. 
 1. __Risk Identification__ is a technique to detect the path where the possibilities of risks and faults are likely to occur.
 Once the risk has been identified, then only you can proceed further with the rest of the processes as without first identifying the risks you cannot go with the analysis of it.
 
-2. __Risk Analysis__ after the risk has been identified, it is very important to analyze before it will create any types of major issues on your project. Risk Analysis is a process of determining the consequences and meanwhile estimating the level or the extent of the risk.
+2. __Risk Analysis__: After the risk has been identified, it is very important to analyze before it will create any types of major issues on your project. Risk Analysis is a process of determining the consequences and meanwhile estimating the level or the extent of the risk.
 
 3. __Risk Prioritization__ is a methodology to interpret the impacts of the encountered risks and prioritize it accordingly on the basis of the level of damage the risk could make.
 
