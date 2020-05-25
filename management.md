@@ -19,7 +19,7 @@ The next step which is to be followed is to calculate the percentage error follo
 Risk Assesssment builds a platform to deal with all these and enables you to work on the project efficiently.
 
 
-*Risk Assessment of the software is thus vital for your project to kee it safe, protective and risk free!!* 
+***Risk Assessment of the software is thus vital for your project to keep it safe, protective and risk free!!*** 
 
 ## How this will help you / why this is useful
 Risk assessment is so necessary as it not only identifies and determines the risk, which can cause loss or failure of the project but also helps you to have the prior knowledge of the level of risks and its consequences afterwards.  
