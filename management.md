@@ -1,3 +1,10 @@
+# Prerequisites / recommended skill level
+
+| Prerequisite | Importance | Notes |
+| -------------|----------|------|
+|[Knowledge of Software Testing](https://www.test-institute.org/Introduction_To_Software_Testing.php) | Helpful | How it can be helpful in reducing the risk of failure |
+| Recommended skill level | beginner-intermediate | Depends on the tools |
+
 ## Summary
 Use a risk assessment to help choose the appropriate sustainable software concepts for your project. Too little and your software is unsustainable; too much and you won’t be able to Get On With It. It can take just a few seconds, but gets you off on the right foot.
 Risk assessment is one of the broader areas of Risk Management which constitutes of :
