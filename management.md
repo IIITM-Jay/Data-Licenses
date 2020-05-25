@@ -1,3 +1,19 @@
+## Summary
+Use a risk assessment to help choose the appropriate sustainable software concepts for your project. Too little and your software is unsustainable; too much and you won’t be able to Get On With It. It can take just a few seconds, but gets you off on the right foot.
+Risk assessment is one of the broader areas of Risk Management which constitutes of :
+* Risk Identifiction
+* Risk Analysis
+* Risk Prioritization
+as its sub-parts.</br>
+All the above three classifications are equally important as each one of them depends on each other. 
+1. __Risk Identification__ is a technique to detect the path where the possibilities of risks and faults are likely to occur.
+Once the risk has been identified, then only you can proceed further with the rest of the processes as without first identifying the risks you cannot go with the analysis of it.
+
+2. __Risk Analysis__ after the risk has been identified, it is very important to analyze before it will create any types of major issues on your project. Risk Analysis is a process of determining the consequences and meanwhile estimating the level or the extent of the risk.
+
+3. __Risk Prioritization__ is a methodology to interpret the impacts of the encountered risks and prioritize it accordingly on the basis of the level of damage the risk could make.
+
+
 ## How this will help you / why this is useful
 Risk assessment is so necessary as it not only identifies and determines the risk, which can cause loss or failure of the project but also helps you to have the prior knowledge of the level of risks and its consequences afterwards.  
 Its Significance is not only limited to identify and detect risks, but also  to deal with it, providing you the protective layer against the threats and vulnerability of system's security as well.
