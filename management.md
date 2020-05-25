@@ -14,6 +14,13 @@ Once the risk has been identified, then only you can proceed further with the re
 
 3. __Risk Prioritization__ is a methodology to interpret the impacts of the encountered risks and prioritize it accordingly on the basis of the level of damage the risk could make.
 
+The main goal of Risk Assessment is to reduce the uncertainity of the risks and to eradicate it completely. 
+The significant approach for doing this is to find the root cause which is reponsible for troubling down to risk, which are generally the bugs, errors and loop holes in the software. 
+The next step which is to be followed is to calculate the percentage error followed by prioritization.
+Risk Assesssment builds a platform to deal with all these and enables you to work on the project efficiently.
+
+
+*Risk Assessment of the software is thus vital for your project to kee it safe, protective and risk free!!* 
 
 ## How this will help you / why this is useful
 Risk assessment is so necessary as it not only identifies and determines the risk, which can cause loss or failure of the project but also helps you to have the prior knowledge of the level of risks and its consequences afterwards.  
