@@ -3,7 +3,7 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
-|[Knowledge of Software Testing](https://www.test-institute.org/Introduction_To_Software_Testing.php) | Helpful | How it can be helpful in reducing the risk of failure |
+|[Knowledge of Software Testing](https://www.test-institute.org/Introduction_To_Software_Testing.php) | Helpful | How testing can be helpful in reducing the risk of failure |
 | Recommended skill level | beginner-intermediate | Depends on the tools |
 
 ## Summary
