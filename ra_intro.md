@@ -3,7 +3,7 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
-|[Knowledge of Software Testing](https://www.test-institute.org/Introduction_To_Software_Testing.php) | Helpful | How testing can be helpful in reducing the risk of failure |
+|[Knowledge of Software Testing](https://the-turing-way.netlify.app/testing/testing.html) | Helpful | How testing can be helpful in reducing the risk of failure |
 | Recommended skill level | beginner-intermediate | Depends on the tools |
 
 ## Summary
@@ -30,7 +30,15 @@ At last we are going to present some case studies which will make you understand
 To put it in a nutshell, ***"Risk Assessement is vital for your project to keep it safe, protective and Risk-free!!!"***
 
 ## How this will help you / why this is useful
-<p align="justify">
-Risk assessment is so necessary as it not only identifies and determines the risk, which can cause loss or failure to the project but also helps you to have the prior knowledge of the level of risks and its consequences aftermath.  Its Significance lies in aiding you to deal with the risks and providing you the protective layer against the threats and vulnerability of system's security as well.
-  </p>
+Risk assessment is so necessary as it not only identifies and determines the risk, which can cause loss or failure to the project but also helps you to have the prior knowledge of the level of risks and its consequences aftermath.  Its Significance lies in aiding you to deal with the risks and providing you the protective layer against the threats and vulnerability of system's security as well. Making long story short, benefits of risk assessment can be laid down as:
+
+* Enables quantification of risks
+* Helps detecting major risks situations
+* Prioritizes the risks according to the severity of exposures
+* Helps to combat risk apprehensions
+* Inspires the developers by enhancing risk awareness
+* Lastly, minimizes the loss or failures to the project
+* Preeminently, improves the project performance
+* 
+ 
   
