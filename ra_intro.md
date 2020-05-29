@@ -39,6 +39,9 @@ Risk assessment is so necessary as it not only identifies and determines the ris
 * Inspires the developers by enhancing risk awareness
 * Lastly, minimizes the loss or failures to the project
 * Preeminently, improves the project performance
-* 
+
+All of these benefits will enable you to have your final target of achieving risk-free project. Keeping in mind to maintain the balance between the quality of the software and the possibilities of risks, *Risk Assessment* is insisting you to come with us on the trip of ***"Risk Assessment: from Prospection to Prevention"***.
+
+Don't be late as ***"Better three hours too soon than a minute too late"*** and enjoy the wonderful tour with us!!!
  
   
