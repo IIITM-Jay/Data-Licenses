@@ -31,6 +31,6 @@ To put it in a nutshell, ***"Risk Assessement is vital for your project to keep 
 
 ## How this will help you / why this is useful
 <p align="justify">
-Risk assessment is so necessary as it not only identifies and determines the risk, which can cause loss or failure of the project but also helps you to have the prior knowledge of the level of risks and its consequences afterwards.  Its Significance lies in aiding you to deal with the risks and providing you the protective layer against the threats and vulnerability of system's security as well.
+Risk assessment is so necessary as it not only identifies and determines the risk, which can cause loss or failure to the project but also helps you to have the prior knowledge of the level of risks and its consequences aftermath.  Its Significance lies in aiding you to deal with the risks and providing you the protective layer against the threats and vulnerability of system's security as well.
   </p>
   
