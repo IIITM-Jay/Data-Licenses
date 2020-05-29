@@ -14,7 +14,9 @@ It can take just a few seconds but gets you off on the right foot.
 We all use risk assessments all the time. 
 Sometimes they’re formal procedures to ensure an activity is safe, but most of the time they’re the thought of a moment- Is this coffee too hot? Is there a bus coming? 
 Software is no different, and using a risk assessment approach like the one described below can really help make your work successful and sustainable. 
+  </p>
   
+  <p align="justify">
   In order to make sure a successful project, you need to have <b>Risk-Free</b> softwares to eradicate the impacts of failures and improve project performance. Mananging and assessing risk is different from managing strategy. More or less, it focuses on the negative threats and failures rather than opportunities and success, and hence <b><i>"The Key to risk assessment is never putting yourself in a position where you cannot live to fight another day."</i></b> In pursuance to manage risks we need to realize and understand the scope and objectives of the software and use an appropriate automated risk management tool. With the sole purpose of increasing the feasibility of project accomplishing triumphant conclusion, the risks or potential problems for a project needs to be prospected and prevented at an outset stage and an apprpriate countermeasures developed.
 </p>
 
