@@ -10,9 +10,7 @@ Before going into the details, we would like to introduce some of the useful ope
 
 <img src="https://i.ibb.co/bLJVX8v/swot.png" width="30%" align="right" hspace="20" vspace="20">
 
-1. **Risk Identification:** 
-
-
+1. **Risk Identification:**
 This operation consists of identification of areas of concern, identification and evaluation of assets, and identification of security requirements.
 Before commencing risk assessment, it is necessary for you to understand the organization and its capabilities as well as its goals and objectives and strategies that are in place to achieve them. 
 With the main aim of attaining successful project, the first thing which is very essential in risk assessment process is to identify the ***Strengths, Weakness, Opporunities and Threats (SWOT).***
