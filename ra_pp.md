@@ -40,7 +40,7 @@ Without proper risk assessment it would be difficult for the project participant
 that the owner should pay the contractor to bear the risks associated with specific uncertainities.
 
 **II.Risk Mitigation Methods:**\
-jtfhtred
+continues......
 
 
 
