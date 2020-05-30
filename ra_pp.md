@@ -20,7 +20,7 @@ With the main aim of attaining successful project, the first thing which is very
 The second stage of risk management emphasizes on analyzation and ranking that is risk prioritization as continuous processes and not just as a single step to be completed at one stage of the development life cycle. While the **Risk Analysis** discusses various issues surrounding the software and its associated area of disagreements as well as identifes possible vulnerabilities, sometimes by using tools or listing the common vulnerabilities, the **Risk Prioritization** process determines the probability of compromization, balancing the control against threat capacity to determine the likelihood and then sets the appropriate ranking as required followed by selecting the top N major risks on which further operations and actions are to be performed. 
 
 ## 3. Risk Asseessment: A broader view
-<img src="https://i.ibb.co/Kr0bbzZ/r-assessing.png" width="30%" align="left" hspace="20" vspace="20">
+<img src="https://i.ibb.co/Kr0bbzZ/r-assessing.png" width="40%" align="left" hspace="20" vspace="20">
 
 
 
