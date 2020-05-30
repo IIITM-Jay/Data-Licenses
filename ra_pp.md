@@ -39,7 +39,8 @@ Risk transfer can be entirely appropriate when there is a mutual understanding o
 Without proper risk assessment it would be difficult for the project participants and the owner to determine a fair and equitable price 
 that the owner should pay the contractor to bear the risks associated with specific uncertainities.
 
-**I.Risk Mitigation Methods:**\
+**II.Risk Mitigation Methods:**\
+jtfhtred
 
 
 
