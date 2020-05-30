@@ -34,10 +34,12 @@ when avoiding one known risk leads to an unknown risk of even greater threats an
 2.**Risk Control:** This process refers to the procedural steps involved for the purpose of rectifying the divergence and deviations from planned goals and objectives.
 It uses various tools and parameters such as early warning systems that can fetch information to assess more precisely the impacts, likelihood, or timing of a risk.
 
-3.**Risk Tranfer:** To transfer risks to parties such as contractors, sureties, or insurance firms, it is necessary to quantitatively assess the risk.
+3.**Risk Transfer:** To transfer risks to parties such as contractors, sureties, or insurance firms, it is necessary to quantitatively assess the risk.
 Risk transfer can be entirely appropriate when there is a mutual understanding of the risks compared to the rewards.
 Without proper risk assessment it would be difficult for the project participants and the owner to determine a fair and equitable price 
 that the owner should pay the contractor to bear the risks associated with specific uncertainities.
+
+**I.Risk Mitigation Methods:**\
 
 
 
