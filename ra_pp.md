@@ -25,7 +25,7 @@ and then sets the appropriate ranking as required followed by selecting the top 
 ## Risk Asseessment: A broader view
 <img src="https://i.ibb.co/Kr0bbzZ/r-assessing.png" width="40%" align="left" hspace="20" vspace="20">
 
-**I.Risk Aversion Methods:**  &n
+**I.Risk Aversion Methods:**  &nbsp
 1.**Risk Avoidance:** Under the context of various risk aversion methds in software development, risk avoidance is one of the elementary step
 which leads to the elimination of some risks, or categories of risks by modififying the specifications and criterions of the project.
 It endeavours to reconfigure the project such that the risk in the question vanishes or is reduced to an acceptable value. However, care should be taken in case of interdependencies between risks so as not to be caught in a trap which could get arose
