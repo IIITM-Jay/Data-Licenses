@@ -24,7 +24,7 @@ Software is no different, and using a risk assessment approach like the one desc
 In the context of software development, these processes of risk management can be defined as follows:
 1. __Risk Identification__: This is a process of determining the risks and the pathways for errors that are likely to prevent the software, program or project from performing as planned.
 2. __Risk Analysis__: Risk Analysis occurs after the risk identification process of analysing each instance of risk, its consequences and the impact on the performance of the software or projects.
-3. __Risk Impact Assessment__: Based on the performance analysis, the process of risk impact assessment creates an understanding of the overall consequence of the risks and if they are acceptable.
+3. __Risk Assessment / Risk Impact Assessment__: Based on the performance analysis, the process of risk impact assessment creates an understanding of the overall consequence of the risks and if they are acceptable.
 4. __Risk Prioritization__:  The risk prioritization process helps in prioritizing tasks and allocating resources based on the level of damage the risk could make.
 Risks that can cause significant risk by negatively impacting the project's performance, timeline or cost are prioritised for their mitigation plans.
 5. __Risk Mitigation__: This process helps in identifying actions or decisions that can reduce the likelihood of occurrence and negative impact of each risk event.
