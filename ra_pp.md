@@ -16,10 +16,12 @@ Before commencing risk assessment, it is necessary for you to understand the org
 With the main aim of attaining successful project, the first thing which is very essential in risk assessment process is to identify the ***Strengths, Weakness, Opporunities and Threats (SWOT).***
 
 
-
-
 2. **Risk Analysis and Proiritization:**
 The second stage of risk management emphasizes on analyzation and ranking that is risk prioritization as continuous processes and not just as a single step to be completed at one stage of the development life cycle. While the **Risk Analysis** discusses various issues surrounding the software and its associated area of disagreements as well as identifes possible vulnerabilities, sometimes by using tools or listing the common vulnerabilities, the **Risk Prioritization** process determines the probability of compromization, balancing the control against threat capacity to determine the likelihood and then sets the appropriate ranking as required followed by selecting the top N major risks on which further operations and actions are to be performed. 
+
+## 3. Risk Asseessment: A broader view:
+<img src="https://i.ibb.co/bLJVX8v/swot.png" width="50%" align="right" hspace="20" vspace="20">
+
 
 
  
