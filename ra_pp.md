@@ -9,13 +9,14 @@ Let us emphasize more on the third stage, its delineating risk impact assessment
 Before going into the details, we would like to introduce some of the useful operations and actions necessary for the previous two stages which establishes an important interconnection with the third stage:
 
 1. **Risk Identification:** 
-<img src="https://i.ibb.co/bLJVX8v/swot.png" width="30%" align="left" hspace="20" vspace="20">
+<img src="https://i.ibb.co/bLJVX8v/swot.png" width="30%" align="right" hspace="20" vspace="20">
 
 This operation consists of identification of areas of concern, identification and evaluation of assets, and identification of security requirements.
 Before commencing risk assessment, it is necessary for you to understand the organization and its capabilities as well as its goals and objectives and strategies that are in place to achieve them. 
 With the main aim of attaining successful project, the first thing which is very essential in risk assessment process is to identify the ***Strengths, Weakness, Opporunities and Threats (SWOT).***
 
 <img src="https://i.ibb.co/c1z3HQJ/analyze-1.png" width="40%" align="right" hspace="20" vspace="20">
+
 2. **Risk Analysis:**
 The second stage of risk management emphasizes on analyzation and ranking that is risk prioritization as continuous process and not just as a single step to be completed at one stage of the development life cycle. While the **Risk Analyzation** discusses various issues surrounding the software and its associated area f disagreements as well as identifes possible vulnerabilities, sometimes by using tools or listing the common vulnerabilities, the **Risk Prioritization** process determines the probability of compromization, balancing the control against threat capacity to determine the likelihood and then sets the appropriate ranking as required followed by selecting the top N major risks on which further operations and actions are to be performed. 
 
