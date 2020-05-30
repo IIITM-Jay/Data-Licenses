@@ -29,7 +29,10 @@ and then sets the appropriate ranking as required followed by selecting the top 
 1.**Risk Avoidance:** Under the context of various risk aversion methds in software development, risk avoidance is one of the elementary step
 which leads to the elimination of some risks, or categories of risks by modififying the specifications and criterions of the project.
 It endeavours to reconfigure the project such that the risk in the question vanishes or is reduced to an acceptable value. However, care should be taken in case of interdependencies between risks so as not to be caught in a trap which could get arose
-when avoiding one known risk leads to an unknown risk of even greater threats and consequences.
+when avoiding one known risk leads to an unknown risk of even greater threats and consequences.\
+
+2.**Risk Control:** This process refers to the procedural steps involved for the purpose of rectifying the divergence and deviations from planned goals and objectives.
+It uses various tools ans parameters sucha as early warning systems that can fetch information to assess more precisely the impacts, likelihood, or timing of a risk.
 
 
 
