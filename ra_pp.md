@@ -23,7 +23,7 @@ the **Risk Prioritization** process determines the probability of compromization
 and then sets the appropriate ranking as required followed by selecting the top N major risks on which further operations and actions are to be performed. 
 
 ## Risk Asseessment: A broader view
-<img src="https://i.ibb.co/Kr0bbzZ/r-assessing.png" width="45%" align="left" hspace="20" vspace="20">
+<img src="https://i.ibb.co/Kr0bbzZ/r-assessing.png" width="50%" align="left" hspace="20" vspace="20">
 
 **I.Risk Aversion Methods:**\
 1.**Risk Avoidance:** Under the context of various risk aversion methds in software development, risk avoidance is one of the elementary step
