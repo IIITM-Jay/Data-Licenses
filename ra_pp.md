@@ -8,7 +8,7 @@ These spokes represents the various typical stages of risk management process, o
 Let us emphasize more on the fourth stage, its delineating risk impact assessment or simply can be termed as risk assessment comprising of varoius tasks that includes numerous methods and techniques of prevention, mitigitaion, recovery and many more.
 Before going into the details, we would like to introduce some of the useful operations and actions necessary for the previous three stages which establishes an important interconnection with the third stage:
 
-<img src="https://i.ibb.co/bLJVX8v/swot.png" width="100%" align="right" hspace="20" vspace="20">
+<img src="https://i.ibb.co/bLJVX8v/swot.png" width="30%" align="right" hspace="20" vspace="20">
 
 1. **Risk Identification:**
 This operation consists of identification of areas of concern, identification and evaluation of assets, and identification of security requirements.
@@ -23,7 +23,7 @@ the **Risk Prioritization** process determines the probability of compromization
 and then sets the appropriate ranking as required followed by selecting the top N major risks on which further operations and actions are to be performed. 
 
 ## Risk Asseessment: A broader view
-<img src="https://i.ibb.co/Kr0bbzZ/r-assessing.png" width="40%" align="left" hspace="20" vspace="20">
+<img src="https://i.ibb.co/Kr0bbzZ/r-assessing.png" width="50%" align="left" hspace="20" vspace="20">
 
 **I.Risk Aversion Methods:**\
 1.**Risk Avoidance:** Under the context of various risk aversion methds in software development, risk avoidance is one of the elementary step
