@@ -50,7 +50,9 @@ It accentuates on how the various strategies of risk aversion methods should be 
 enhance the performance of the software thereby minimizing the uncertainities of failures.
 
 **III.Risk Recovery Methods:**\
-<img src="https://i.ibb.co/4KmKtyr/reform.png" width="30%" align="left" hspace="20" vspace="20">
+<img src="https://i.ibb.co/4KmKtyr/reform.png" width="30%" align="right" hspace="20" vspace="20">
+The pictorial representation of the steps involved in this method shows how can it be worked out by following **5R's** principle of:
+* 
 
 
 
