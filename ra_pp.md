@@ -40,7 +40,15 @@ Without proper risk assessment it would be difficult for the project participant
 that the owner should pay the contractor to bear the risks associated with specific uncertainities.
 
 **II.Risk Mitigation Methods:**\
-continues......
+Following the categorised rank list of the risks on the basis of their impacts and likelihoods of failures, assumptions are to be postulated in a manner acceptable by all the project members and participants. 
+**Risk assumption** asserts that if some risks that cannot ne avoided, controlled, transferred, insured, eliminated or otherwise mitigated any how, then they simply be accepted.
+However, **Risk Acceptance** is a legitimate option but not actually a mitigation strategy in risk assessment.
+Risk has to be accepted only in adverse predicament when the loss outweighs the benefits
+and in such circumstances choosing to accept a risk is still a better option rather than spending time or money mitigating it.\
+The principles of risk mitigation strategis allows us to go along with the steps that will lead to the ways of **Impact REduction**. 
+It accentuates on how the various strategies of risk aversion methods should be organized and implemented in order to
+enhance the performance of the software thereby minimizing the uncertainities of failures.
+
 
 
 
