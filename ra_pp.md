@@ -49,6 +49,12 @@ The principles of risk mitigation strategis allows us to go along with the steps
 It accentuates on how the various strategies of risk aversion methods should be organized and implemented in order to
 enhance the performance of the software thereby minimizing the uncertainities of failures.
 
+**III.Risk Recovery Methods:**\
+<img src="https://i.ibb.co/4KmKtyr/reform.png" width="30%" align="left" hspace="20" vspace="20">
+
+
+
+
 
 
 
