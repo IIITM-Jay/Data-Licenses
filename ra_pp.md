@@ -51,8 +51,21 @@ enhance the performance of the software thereby minimizing the uncertainities of
 
 **III.Risk Recovery Methods:**\
 <img src="https://i.ibb.co/4KmKtyr/reform.png" width="30%" align="right" hspace="20" vspace="20">
-The pictorial representation of the steps involved in this method shows how can it be worked out by following **5R's** principle of:
-* 
+The pictorial representation of the steps involved in this method shows how can it be worked out by following **5R's** principle of ***Redesign, Reallocate, Reform, Restructure and Reconfigure***. 
+All the five steps helps in one of the same ways but differ minorly in the way they aid in risk assessment.
+* __Redesign:__ The project participants should give a thought of redesigning the whole project only if the risks are major and can affect wider range of users as consequence of which can even disruptly stop the whole working process of both the developers as well as the users of it.
+* __Reallocate:__ Reallocating the resources and tools as required can help in way such that every aspect of risk are then be given equal attention and sufficient enough resources to work efficiently.
+* __Reform:__ This is deifferent from redesigning in a way that it works by changing the parameters and criterions to give it a new form, while the latter decribes working with different tools and resources without changing the parameters.
+* __Restructure:__ This guides us to the way of restructuring the various areas of concerns where the vulnerability is high.
+* __Recongigure:__ Reconfiguring of the whole project is the last step after proper risk assessment associated with it.
+
+**III.Defining Risk Matrix:**\
+A risk matrix is a very popular way of quantifying what’s going on with the thing you’re interested in. One axis measures exposure in some way, and the other the impact of a mishap. The further from the origin, the more safeguards are needed to make the risk acceptable.
+
+![Impact vs complexity risk matrix](../figures/risk_matrix.png)
+
+In our case, we will use ‘complexity’ and ‘impact’ as the two axes. 
+
 
 
 
