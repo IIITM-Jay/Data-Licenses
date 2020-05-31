@@ -3,7 +3,7 @@ Risk assessment in a software development is a process which initiates from risk
 This whole process revolves as the spokes of the wheel to complete its revolution for successful risk management process in software development with an attainment of fruitful project.
 These spokes represents the various typical stages of risk management process, of which risk asessment is one of the vital phases, helping the wheel to have its own balance necessary for keep on rotating. The various classical stages or steps are depicted below:
 
-![Risk Managment Process](https://i.ibb.co/LzX2yDH/stages.png)
+![Risk Managment Process](https://i.ibb.co/NVvfP2j/stages-1.png)
 
 Let us emphasize more on the fourth stage, its delineating risk impact assessment or simply can be termed as risk assessment comprising of varoius tasks that includes numerous methods and techniques of prevention, mitigitaion, recovery and many more.
 Before going into the details, we would like to introduce some of the useful operations and actions necessary for the previous three stages which establishes an important interconnection with the third stage:
