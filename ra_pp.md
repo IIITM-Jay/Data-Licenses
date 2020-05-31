@@ -45,7 +45,7 @@ Following the categorised rank list of the risks on the basis of their impacts a
 However, **Risk Acceptance** is a legitimate option but not actually a mitigation strategy in risk assessment.
 Risk has to be accepted only in adverse predicament when the loss outweighs the benefits
 and in such circumstances choosing to accept a risk is still a better option rather than spending time or money mitigating it.\
-The principles of risk mitigation strategis allows us to go along with the steps that will lead to the ways of **Impact REduction**. 
+The principles of risk mitigation strategis allows us to go along with the steps that will lead to the ways of **Impact Reduction**. 
 It accentuates on how the various strategies of risk aversion methods should be organized and implemented in order to
 enhance the performance of the software thereby minimizing the uncertainities of failures.
 
